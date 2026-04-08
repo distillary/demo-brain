@@ -1,0 +1,267 @@
+{
+  "source": "barnum-art-of-money-getting",
+  "entity_count": 23,
+  "entities": [
+    {
+      "slug": "ledger",
+      "title": "Ledger",
+      "entity_type": "defined_term",
+      "aliases": [
+        "Expenditure ledger",
+        "Spending record",
+        "Account book"
+      ],
+      "description": "Barnum prescribes keeping a ledger divided into \"necessaries\" and \"luxuries\" columns as a practical accounting method. Recording daily expenditure reveals spending patterns and serves as a \"cure for e"
+    },
+    {
+      "slug": "rothschild",
+      "title": "Rothschild",
+      "entity_type": "person",
+      "aliases": [
+        "Elder Rothschild",
+        "Rothschild family"
+      ],
+      "description": "The elder Rothschild is cited for his business maxim \"Be cautious and bold,\" which Barnum presents as reconciling an apparent contradiction in business strategy. All-caution never dares to succeed; al"
+    },
+    {
+      "slug": "cuvier",
+      "title": "Cuvier",
+      "entity_type": "person",
+      "aliases": [
+        "French naturalist Cuvier",
+        "Georges Cuvier"
+      ],
+      "description": "French naturalist Cuvier exemplifies Barnum's principle that [[Deep knowledge prevents deception]]. Barnum praises Cuvier for knowing natural history so thoroughly that from a single bone he could ded"
+    },
+    {
+      "slug": "pt-barnum",
+      "title": "P.T. Barnum",
+      "entity_type": "person",
+      "aliases": [
+        "Phineas Taylor Barnum",
+        "The author"
+      ],
+      "description": "P.T. Barnum (1810-1891) is the author and the voice of \"[[The Art of Money Getting]]\" (1880). He presents his advice based on personal experience as a successful showman and entrepreneur. Barnum confe"
+    },
+    {
+      "slug": "tobacco",
+      "title": "Tobacco",
+      "entity_type": "concept",
+      "aliases": [
+        "Tobacco chewing",
+        "Tobacco smoking",
+        "Cigar smoking",
+        "Artificial appetite"
+      ],
+      "description": "Barnum treats tobacco as an artificial appetite deliberately cultivated against human nature. He argues that no creature except worms naturally love tobacco, yet people deliberately form the habit. On"
+    },
+    {
+      "slug": "intoxication",
+      "title": "Intoxication",
+      "entity_type": "concept",
+      "aliases": [
+        "Intoxicating drinks",
+        "Alcohol",
+        "The nervine"
+      ],
+      "description": "Barnum contends that business requires a clear brain to reason through plans carefully, yet intoxicating drinks muddle the brain and create lassitude, neutralizing the energy essential to success. The"
+    },
+    {
+      "slug": "location",
+      "title": "Location",
+      "entity_type": "concept",
+      "aliases": [
+        "Proper location",
+        "Business location",
+        "Right location",
+        "Market location"
+      ],
+      "description": "Barnum asserts that business success depends critically on selecting proper location matching demand. Even a skilled hotel keeper locating in a small village without railroad communication will fail d"
+    },
+    {
+      "slug": "speculation",
+      "title": "Speculation",
+      "entity_type": "concept",
+      "aliases": [
+        "Outside operations",
+        "Business speculation",
+        "Unfamiliar speculation",
+        "Risky ventures"
+      ],
+      "description": "Barnum warns against speculation in businesses outside one's expertise. A man successful in legitimate business who engages in speculation without understanding loses everything, as he loses the advan"
+    },
+    {
+      "slug": "integrity",
+      "title": "Integrity",
+      "entity_type": "concept",
+      "aliases": [
+        "Honesty",
+        "Undoubted integrity",
+        "Strict honesty"
+      ],
+      "description": "Barnum declares integrity more precious than diamonds or rubies because it is the foundation of all financial and personal success. He argues that no person can be dishonest without eventually being d"
+    },
+    {
+      "slug": "perseverance",
+      "title": "Perseverance",
+      "entity_type": "concept",
+      "aliases": [
+        "Persevering",
+        "Unwavering determination",
+        "Pushing through"
+      ],
+      "description": "Barnum identifies perseverance as the critical factor separating success from near-victory that collapses at the threshold. Many reach near the goal but lose faith and relax efforts, losing the prize "
+    },
+    {
+      "slug": "mrs-grundy",
+      "title": "Mrs. Grundy",
+      "entity_type": "concept",
+      "aliases": [
+        "What Mrs. Grundy may say",
+        "Others' judgment",
+        "Social comparison",
+        "Fear of judgment"
+      ],
+      "description": "\"Mrs. Grundy\" represents the fear of others' judgment and the pressure to maintain social status. Barnum argues that the fear of \"what Mrs. Grundy may say\" keeps families working desperately to keep u"
+    },
+    {
+      "slug": "excellence",
+      "title": "Excellence",
+      "entity_type": "concept",
+      "aliases": [
+        "Excelling",
+        "Superior skill",
+        "Excellence in profession",
+        "Undoubted integrity"
+      ],
+      "description": "Barnum asserts that whoever excels all others in their [[Vocation]] and maintains good habits and [[Integrity]] cannot fail to secure abundant patronage and the natural [[Wealth]] that follows. There "
+    },
+    {
+      "slug": "charity",
+      "title": "Charity",
+      "entity_type": "concept",
+      "aliases": [
+        "Charitable giving",
+        "Charitable works",
+        "Generosity",
+        "Selective assistance"
+      ],
+      "description": "Barnum connects charity to business success, arguing that the liberal man who gives to charity will command more patronage than the stingy miser, even if charity is pursued only as business policy. Ge"
+    },
+    {
+      "slug": "debt",
+      "title": "Debt",
+      "entity_type": "concept",
+      "aliases": [
+        "Running into debt",
+        "Borrowed capital",
+        "Being trusted"
+      ],
+      "description": "Barnum defines debt as enslavement—it drains self-respect and creates a \"slavish position\" from which escape becomes nearly impossible. Creditors possess \"perfect memories\" and will eventually collect"
+    },
+    {
+      "slug": "economy",
+      "title": "Economy",
+      "entity_type": "concept",
+      "aliases": [
+        "True economy",
+        "Systematic economy"
+      ],
+      "description": "Barnum's foundational principle: keeping expenditure consistently below income through systematic awareness, not penny-pinching. He specifically criticizes false economy—the \"penny wise and pound fool"
+    },
+    {
+      "slug": "advertising",
+      "title": "Advertising",
+      "entity_type": "concept",
+      "aliases": [
+        "Advertisement",
+        "Newspaper advertising",
+        "Repetitive advertising",
+        "Public awareness"
+      ],
+      "description": "Barnum asserts that a man with a genuinely good article must advertise it persistently in newspapers so the public becomes aware of it. Without advertising creating awareness, even excellent goods bri"
+    },
+    {
+      "slug": "wealth",
+      "title": "Wealth",
+      "entity_type": "concept",
+      "aliases": [
+        "Fortune",
+        "Riches",
+        "Prosperity",
+        "Riches accumulation"
+      ],
+      "description": "Barnum treats wealth as achievable through systematic effort following natural principles rather than [[Luck]]. Poor boys who work hard and learn the value of money reliably become wealthy, while rich"
+    },
+    {
+      "slug": "vocation",
+      "title": "Vocation",
+      "entity_type": "concept",
+      "aliases": [
+        "Occupation",
+        "Profession",
+        "Business choice",
+        "Suitable work"
+      ],
+      "description": "Barnum argues that natural diversity in talents means different people have innate aptitudes requiring matched vocational choices. Forcing someone into an unsuitable vocation creates lifelong struggle"
+    },
+    {
+      "slug": "system",
+      "title": "System",
+      "entity_type": "concept",
+      "aliases": [
+        "Systematic operation",
+        "Systematic business",
+        "Order and punctuality",
+        "Fixed procedures"
+      ],
+      "description": "Barnum argues that systematic business operation with fixed procedures for everything accomplishes twice as much with half the trouble of careless work. System prevents chaos and unfinished work that "
+    },
+    {
+      "slug": "commerce",
+      "title": "Commerce",
+      "entity_type": "concept",
+      "aliases": [
+        "Trade",
+        "Money-getting",
+        "Business practice",
+        "Mercantile activity"
+      ],
+      "description": "Barnum asserts that the history of money-getting through commerce is inseparable from the history of civilization itself. Wherever trade has flourished most, art and science have also produced their n"
+    },
+    {
+      "slug": "capital",
+      "title": "Capital",
+      "entity_type": "concept",
+      "aliases": [
+        "Borrowed capital",
+        "Self-earned capital",
+        "Money invested"
+      ],
+      "description": "Barnum distinguishes between borrowed and self-earned capital as fundamentally different. A young man beginning with borrowed money is unlikely to succeed because he lacks understanding of capital's t"
+    },
+    {
+      "slug": "health",
+      "title": "Health",
+      "entity_type": "concept",
+      "aliases": [
+        "Sound health",
+        "Good health",
+        "Natural vigor"
+      ],
+      "description": "Barnum treats health as the foundational prerequisite for [[Wealth]] accumulation. Without sound health, a person lacks the ambition, incentive, and force needed to make money. He argues that many peo"
+    },
+    {
+      "slug": "luck",
+      "title": "Luck",
+      "entity_type": "concept",
+      "aliases": [
+        "Chance",
+        "Accident",
+        "Fortune",
+        "Random success"
+      ],
+      "description": "Barnum explicitly argues that [[Luck does not exist]]. Finding gold purses in the street day after day is impossible; success and failure follow from proper methods and causes, not chance. Like causes"
+    }
+  ]
+}

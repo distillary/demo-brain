@@ -1,0 +1,1464 @@
+{
+  "source": "barnum-art-of-money-getting",
+  "claim_count": 79,
+  "claims": [
+    {
+      "slug": "wealth-is-built-by-disciplined-character-operating-through-sound-business-practices-not-by-luck-or-s",
+      "title": "Wealth is built by disciplined character operating through sound business practices, not by luck or shortcuts",
+      "proposition": "Barnum's central thesis is that lasting wealth emerges from the convergence of personal financial discipline, individual capacity and effort, competent business operations, and honest reputation, and that shortcuts through debt, speculation, fraud, or intemperance reliably destroy what they promise to create",
+      "layer": 3,
+      "source_ref": "",
+      "tags": {},
+      "parent": "",
+      "entities": [
+        "System",
+        "Wealth",
+        "Financial discipline and capital integrity are the arithmetic foundation of wealth|financial discipline",
+        "Debt",
+        "Capital",
+        "Personal capacity, vocational fit, and relentless effort are the engine of wealth creation|personal capacity",
+        "Health",
+        "Perseverance",
+        "Sound business operations require knowledge, capable people, and strategic discretion|sound operations",
+        "Honest dealing, genuine advertising, and charitable reputation compound into lasting commercial trust|honest reputation",
+        "Advertising",
+        "Charity",
+        "Integrity",
+        "Speculation"
+      ]
+    },
+    {
+      "slug": "mistakes-and-close-observation-enable-learning",
+      "title": "Mistakes and close observation enable learning",
+      "proposition": "Business mistakes → can become → valuable experience if observed closely; Thorough business knowledge → enables → recognition of fraudulent details",
+      "layer": 0,
+      "source_ref": "Section: Depend Upon Your Own Personal Exertions; Cuvier example",
+      "tags": {
+        "priority": "key",
+        "certainty": "established",
+        "stance": "endorsed",
+        "domain": "knowledge",
+        "role": "argument"
+      },
+      "parent": "",
+      "entities": [
+        "Cuvier"
+      ]
+    },
+    {
+      "slug": "wholesale-effort-and-thoroughness-trump-half-measures",
+      "title": "Wholesale effort and thoroughness trump half measures",
+      "proposition": "Acquiring fortune → requires → doing business thoroughly with all might",
+      "layer": 0,
+      "source_ref": "Section: Whatever You Do, Do It With All Your Might",
+      "tags": {
+        "priority": "core",
+        "certainty": "established",
+        "stance": "endorsed",
+        "domain": "work",
+        "role": "argument"
+      },
+      "parent": "",
+      "entities": [
+        "Perseverance"
+      ]
+    },
+    {
+      "slug": "practical-skill-prevents-destitution",
+      "title": "Practical skill prevents destitution",
+      "proposition": "Useful trade or profession skill → financial security → protection from misery",
+      "layer": 0,
+      "source_ref": "Chapter 5: Learn Something Useful",
+      "tags": {
+        "priority": "support",
+        "certainty": "established",
+        "stance": "endorsed",
+        "domain": "education",
+        "role": "argument"
+      },
+      "parent": "",
+      "entities": [
+        "Commerce",
+        "Vocation"
+      ]
+    },
+    {
+      "slug": "politeness-and-kindness-retain-customers",
+      "title": "Politeness and kindness retain customers",
+      "proposition": "Politeness and kindness → customer retention → profits exceed those from rudeness; Insulting paying customer → loss of customer and friends → revenue destruction",
+      "layer": 0,
+      "source_ref": "Chapter 5: Be Polite and Kind to Your Customers",
+      "tags": {
+        "priority": "support",
+        "certainty": "established",
+        "stance": "endorsed",
+        "domain": "business",
+        "role": "example"
+      },
+      "parent": "",
+      "entities": [
+        "Capital"
+      ]
+    },
+    {
+      "slug": "dishonesty-inevitably-discovered-destroys-opportunity",
+      "title": "Dishonesty inevitably discovered destroys opportunity",
+      "proposition": "Dishonesty → eventual discovery → loss of opportunity → closed paths to success",
+      "layer": 0,
+      "source_ref": "Chapter 5: Preserve Your Integrity",
+      "tags": {
+        "priority": "core",
+        "certainty": "established",
+        "stance": "endorsed",
+        "domain": "ethics",
+        "role": "argument"
+      },
+      "parent": "",
+      "entities": []
+    },
+    {
+      "slug": "easy-access-to-credit-encourages-dangerous-speculation",
+      "title": "Easy access to credit encourages dangerous speculation",
+      "proposition": "Easy credit access → reduced effort perception → temptation to hazardous speculation",
+      "layer": 0,
+      "source_ref": "Chapter 5: Don't Indorse Without Security",
+      "tags": {
+        "priority": "key",
+        "certainty": "argued",
+        "stance": "endorsed",
+        "domain": "finance",
+        "role": "argument"
+      },
+      "parent": "",
+      "entities": [
+        "Capital"
+      ]
+    },
+    {
+      "slug": "reputation-precedes-financial-condition",
+      "title": "Reputation precedes financial condition",
+      "proposition": "Public knowledge of losses → reputation damage → business failure → financial ruin",
+      "layer": 0,
+      "source_ref": "Chapter 5: Don't Blab",
+      "tags": {
+        "priority": "key",
+        "certainty": "established",
+        "stance": "endorsed",
+        "domain": "business",
+        "role": "argument"
+      },
+      "parent": "",
+      "entities": []
+    },
+    {
+      "slug": "commerce-is-civilizations-foundation",
+      "title": "Commerce is civilization's foundation",
+      "proposition": "Commerce history → parallel to civilization history → trade flourishing correlates with art and science advancement",
+      "layer": 0,
+      "source_ref": "Chapter 5: Preserve Your Integrity",
+      "tags": {
+        "priority": "aside",
+        "certainty": "established",
+        "stance": "endorsed",
+        "domain": "history",
+        "role": "fact"
+      },
+      "parent": "",
+      "entities": [
+        "Commerce"
+      ]
+    },
+    {
+      "slug": "debt-compounds-against-the-debtor",
+      "title": "Debt compounds against the debtor",
+      "proposition": "Creditors → possess → perfect memories; Money in debt → works against → the debtor while the creditor sleeps",
+      "layer": 0,
+      "source_ref": "Section: Avoid Debt, discussion of lazy apprentice Horatio; on money as servant or master",
+      "tags": {
+        "priority": "core",
+        "certainty": "established",
+        "stance": "endorsed",
+        "domain": "finance",
+        "role": "metaphor"
+      },
+      "parent": "",
+      "entities": [
+        "Debt"
+      ]
+    },
+    {
+      "slug": "intoxication-prevents-sound-judgment",
+      "title": "Intoxication prevents sound judgment",
+      "proposition": "Intoxicating drinks → muddle the brain → making successful business impossible",
+      "layer": 0,
+      "source_ref": "Chunk 01, paragraphs on intoxicating drinks",
+      "tags": {
+        "priority": "core",
+        "certainty": "established",
+        "stance": "endorsed",
+        "domain": "health",
+        "role": "argument"
+      },
+      "parent": "",
+      "entities": [
+        "Intoxication"
+      ]
+    },
+    {
+      "slug": "politeness-retains-customer-relationships",
+      "title": "Politeness retains customer relationships",
+      "proposition": "Politeness and kindness → customer retention → profits exceed those from rudeness",
+      "layer": 0,
+      "source_ref": "Chapter 5: Be Polite and Kind to Your Customers",
+      "tags": {
+        "priority": "core",
+        "certainty": "established",
+        "stance": "endorsed",
+        "domain": "business",
+        "role": "argument"
+      },
+      "parent": "",
+      "entities": [
+        "Capital"
+      ]
+    },
+    {
+      "slug": "excellence-in-ones-field-cannot-fail-to-succeed",
+      "title": "Excellence in one's field cannot fail to succeed",
+      "proposition": "Excelling in profession → good habits + integrity → abundant patronage guaranteed",
+      "layer": 0,
+      "source_ref": "Chapter 4: Don't Get Above Your Business (profession overcrowding)",
+      "tags": {
+        "priority": "core",
+        "certainty": "argued",
+        "stance": "endorsed",
+        "domain": "work",
+        "role": "argument"
+      },
+      "parent": "",
+      "entities": [
+        "Vocation",
+        "Integrity",
+        "Wealth"
+      ]
+    },
+    {
+      "slug": "income-must-exceed-expenditure",
+      "title": "Income must exceed expenditure",
+      "proposition": "Accumulating wealth → requires → making income exceed expenditure consistently",
+      "layer": 0,
+      "source_ref": "Introduction, foundational principle",
+      "tags": {
+        "priority": "core",
+        "certainty": "established",
+        "stance": "endorsed",
+        "domain": "finance",
+        "role": "definition"
+      },
+      "parent": "",
+      "entities": [
+        "Economy"
+      ]
+    },
+    {
+      "slug": "retain-and-develop-talented-employees",
+      "title": "Retain and develop talented employees",
+      "proposition": "Experienced employees → increase in value → should not be readily replaced",
+      "layer": 0,
+      "source_ref": "Chapter 3: Use the Best Tools",
+      "tags": {
+        "priority": "core",
+        "certainty": "established",
+        "stance": "endorsed",
+        "domain": "employment",
+        "role": "argument"
+      },
+      "parent": "",
+      "entities": []
+    },
+    {
+      "slug": "easy-credit-and-risky-endorsements-enable-ruin",
+      "title": "Easy credit and risky endorsements enable ruin",
+      "proposition": "Easy credit access → reduced effort perception → temptation to hazardous speculation; Unsecured endorsements → habitual borrowing → speculation spiral → mutual ruin",
+      "layer": 0,
+      "source_ref": "Chapter 5: Don't Indorse Without Security",
+      "tags": {
+        "priority": "key",
+        "certainty": "argued",
+        "stance": "endorsed",
+        "domain": "finance",
+        "role": "argument"
+      },
+      "parent": "",
+      "entities": [
+        "Capital",
+        "Speculation"
+      ]
+    },
+    {
+      "slug": "cascading-purchases-expand-lifestyle-permanently",
+      "title": "Cascading purchases expand lifestyle permanently",
+      "proposition": "A single purchase → triggers → coordinating purchases and permanent lifestyle expansion",
+      "layer": 0,
+      "source_ref": "Introduction, anecdote of the sofa; paragraph on easy come easy go",
+      "tags": {
+        "priority": "core",
+        "certainty": "argued",
+        "stance": "endorsed",
+        "domain": "psychology",
+        "role": "argument"
+      },
+      "parent": "",
+      "entities": [
+        "Wealth"
+      ]
+    },
+    {
+      "slug": "integrity-is-more-valuable-than-wealth",
+      "title": "Integrity is more valuable than wealth",
+      "proposition": "Integrity → foundation of success → more valuable than diamonds or money",
+      "layer": 0,
+      "source_ref": "Chapter 5: Preserve Your Integrity",
+      "tags": {
+        "priority": "core",
+        "certainty": "established",
+        "stance": "endorsed",
+        "domain": "ethics",
+        "role": "definition"
+      },
+      "parent": "",
+      "entities": [
+        "Integrity"
+      ]
+    },
+    {
+      "slug": "system-doubles-productivity",
+      "title": "System doubles productivity",
+      "proposition": "Systematic business operation → order and punctuality → double output, half effort",
+      "layer": 0,
+      "source_ref": "Chapter 5: Be Systematic",
+      "tags": {
+        "priority": "key",
+        "certainty": "argued",
+        "stance": "endorsed",
+        "domain": "work",
+        "role": "argument"
+      },
+      "parent": "",
+      "entities": [
+        "System"
+      ]
+    },
+    {
+      "slug": "choose-a-vocation-suited-to-aptitude-and-excel",
+      "title": "Choose a vocation suited to aptitude and excel",
+      "proposition": "Success in occupation → requires → matching natural aptitude to vocation; excellence in profession → guarantees → abundant patronage",
+      "layer": 0,
+      "source_ref": "Section: Don't Mistake Your Vocation; Chapter 4: Don't Get Above Your Business",
+      "tags": {
+        "priority": "core",
+        "certainty": "argued",
+        "stance": "endorsed",
+        "domain": "work",
+        "role": "argument"
+      },
+      "parent": "",
+      "entities": [
+        "Vocation",
+        "Integrity",
+        "Wealth"
+      ]
+    },
+    {
+      "slug": "social-comparison-drives-wasteful-spending",
+      "title": "Social comparison drives wasteful spending",
+      "proposition": "Fear of others' judgment → causes → unnecessary expenditure on appearances",
+      "layer": 0,
+      "source_ref": "Introduction, discussion of Mrs. Grundy and keeping up appearances",
+      "tags": {
+        "priority": "key",
+        "certainty": "argued",
+        "stance": "endorsed",
+        "domain": "psychology",
+        "role": "argument"
+      },
+      "parent": "",
+      "entities": [
+        "Mrs. Grundy"
+      ]
+    },
+    {
+      "slug": "speculation-outside-expertise-destroys-wealth",
+      "title": "Speculation outside expertise destroys wealth",
+      "proposition": "Unfamiliar business speculation → losses despite prior success → financial ruin",
+      "layer": 0,
+      "source_ref": "Chapter 5: Beware of Outside Operations",
+      "tags": {
+        "priority": "core",
+        "certainty": "argued",
+        "stance": "endorsed",
+        "domain": "finance",
+        "role": "argument"
+      },
+      "parent": "",
+      "entities": [
+        "Speculation",
+        "Luck"
+      ]
+    },
+    {
+      "slug": "prosperity-requires-self-regulation",
+      "title": "Prosperity requires self-regulation",
+      "proposition": "Sudden prosperity → poses → greater risk than adversity without discipline",
+      "layer": 0,
+      "source_ref": "Introduction, paragraph on easy come easy go",
+      "tags": {
+        "priority": "key",
+        "certainty": "argued",
+        "stance": "endorsed",
+        "domain": "psychology",
+        "role": "argument"
+      },
+      "parent": "",
+      "entities": [
+        "Wealth"
+      ]
+    },
+    {
+      "slug": "integrity-is-the-foundation-of-all-success",
+      "title": "Integrity is the foundation of all success",
+      "proposition": "Integrity → foundation of success → more valuable than wealth; Dishonesty → eventual discovery → loss of opportunity → closed paths; Known honesty → community credit access",
+      "layer": 0,
+      "source_ref": "Chapter 5: Preserve Your Integrity",
+      "tags": {
+        "priority": "support",
+        "certainty": "argued",
+        "stance": "endorsed",
+        "domain": "business",
+        "role": "argument"
+      },
+      "parent": "",
+      "entities": [
+        "Integrity",
+        "Wealth"
+      ]
+    },
+    {
+      "slug": "reputation-loss-precedes-financial-loss",
+      "title": "Reputation loss precedes financial loss",
+      "proposition": "Public knowledge of losses → reputation damage → business failure → financial ruin",
+      "layer": 0,
+      "source_ref": "Chapter 5: Don't Blab",
+      "tags": {
+        "priority": "key",
+        "certainty": "established",
+        "stance": "endorsed",
+        "domain": "business",
+        "role": "argument"
+      },
+      "parent": "",
+      "entities": []
+    },
+    {
+      "slug": "endorsements-without-security-enable-ruin",
+      "title": "Endorsements without security enable ruin",
+      "proposition": "Unsecured endorsements → habitual borrowing → speculation spiral → mutual ruin",
+      "layer": 0,
+      "source_ref": "Chapter 5: Don't Indorse Without Security",
+      "tags": {
+        "priority": "core",
+        "certainty": "argued",
+        "stance": "endorsed",
+        "domain": "finance",
+        "role": "argument"
+      },
+      "parent": "",
+      "entities": [
+        "Speculation"
+      ]
+    },
+    {
+      "slug": "wealth-pursuit-requires-accepting-responsibility",
+      "title": "Wealth pursuit requires accepting responsibility",
+      "proposition": "Wealth pursuit → responsibility acceptance required → enrichment of human happiness",
+      "layer": 0,
+      "source_ref": "Chapter 5: Preserve Your Integrity",
+      "tags": {
+        "priority": "support",
+        "certainty": "argued",
+        "stance": "endorsed",
+        "domain": "philosophy",
+        "role": "argument"
+      },
+      "parent": "",
+      "entities": [
+        "Wealth"
+      ]
+    },
+    {
+      "slug": "starting-with-borrowed-capital-prevents-real-wealth-building",
+      "title": "Starting with borrowed capital prevents real wealth building",
+      "proposition": "Borrowed capital → easy money → lack of value understanding → business failure",
+      "layer": 0,
+      "source_ref": "Chapter 4: Don't Get Above Your Business",
+      "tags": {
+        "priority": "core",
+        "certainty": "argued",
+        "stance": "endorsed",
+        "domain": "finance",
+        "role": "argument"
+      },
+      "parent": "",
+      "entities": [
+        "Capital"
+      ]
+    },
+    {
+      "slug": "personal-oversight-exceeds-delegation",
+      "title": "Personal oversight exceeds delegation",
+      "proposition": "The employer's eye → is worth more than → the hands of a dozen employees",
+      "layer": 0,
+      "source_ref": "Section heading: Depend Upon Your Own Personal Exertions",
+      "tags": {
+        "priority": "key",
+        "certainty": "established",
+        "stance": "endorsed",
+        "domain": "business",
+        "role": "argument"
+      },
+      "parent": "",
+      "entities": []
+    },
+    {
+      "slug": "caution-and-boldness-both-necessary",
+      "title": "Caution and boldness both necessary",
+      "proposition": "Successful business → requires → combining caution in planning with boldness in execution",
+      "layer": 0,
+      "source_ref": "Chunk 02, maxim from elder Rothschild",
+      "tags": {
+        "priority": "key",
+        "certainty": "established",
+        "stance": "endorsed",
+        "domain": "business",
+        "role": "principle"
+      },
+      "parent": "",
+      "entities": [
+        "Rothschild",
+        "Luck"
+      ]
+    },
+    {
+      "slug": "quality-products-can-succeed-with-advertising",
+      "title": "Quality products can succeed with advertising",
+      "proposition": "Genuine article + repetitive advertising → public knowledge → profitable sales",
+      "layer": 0,
+      "source_ref": "Chapter 5: Advertise Your Business",
+      "tags": {
+        "priority": "core",
+        "certainty": "argued",
+        "stance": "endorsed",
+        "domain": "business",
+        "role": "argument"
+      },
+      "parent": "",
+      "entities": [
+        "Advertising"
+      ]
+    },
+    {
+      "slug": "debt-is-enslavement",
+      "title": "Debt is enslavement",
+      "proposition": "Running into debt → creates → slavish position eroding self-respect",
+      "layer": 0,
+      "source_ref": "Section: Avoid Debt",
+      "tags": {
+        "priority": "core",
+        "certainty": "established",
+        "stance": "endorsed",
+        "domain": "finance",
+        "role": "definition"
+      },
+      "parent": "",
+      "entities": [
+        "Debt"
+      ]
+    },
+    {
+      "slug": "fraudulent-goods-lose-customers-permanently",
+      "title": "Fraudulent goods lose customers permanently",
+      "proposition": "Spurious advertised article → initial sales → customer denouncement → business death",
+      "layer": 0,
+      "source_ref": "Chapter 5: Advertise Your Business",
+      "tags": {
+        "priority": "key",
+        "certainty": "argued",
+        "stance": "endorsed",
+        "domain": "business",
+        "role": "argument"
+      },
+      "parent": "",
+      "entities": [
+        "Advertising"
+      ]
+    },
+    {
+      "slug": "charity-produces-business-benefits",
+      "title": "Charity produces business benefits",
+      "proposition": "Charitable giving → increased patronage and profits → practical incentive for generosity",
+      "layer": 0,
+      "source_ref": "Chapter 5: Be Charitable",
+      "tags": {
+        "priority": "support",
+        "certainty": "argued",
+        "stance": "endorsed",
+        "domain": "business",
+        "role": "argument"
+      },
+      "parent": "",
+      "entities": [
+        "Charity"
+      ]
+    },
+    {
+      "slug": "stay-informed-about-business-developments",
+      "title": "Stay informed about business developments",
+      "proposition": "Trustworthy newspaper reading → current knowledge → competitive advantage",
+      "layer": 0,
+      "source_ref": "Chapter 5: Read the Newspapers",
+      "tags": {
+        "priority": "support",
+        "certainty": "established",
+        "stance": "endorsed",
+        "domain": "business",
+        "role": "argument"
+      },
+      "parent": "",
+      "entities": [
+        "Commerce"
+      ]
+    },
+    {
+      "slug": "repetition-creates-purchasing-intention",
+      "title": "Repetition creates purchasing intention",
+      "proposition": "Seven advertisement exposures → reader from awareness to purchase commitment",
+      "layer": 0,
+      "source_ref": "Chapter 5: Advertise Your Business (French writer principle)",
+      "tags": {
+        "priority": "key",
+        "certainty": "argued",
+        "stance": "endorsed",
+        "domain": "business",
+        "role": "argument"
+      },
+      "parent": "",
+      "entities": [
+        "Advertising"
+      ]
+    },
+    {
+      "slug": "poor-boys-rise-more-reliably-than-rich-boys",
+      "title": "Poor boys rise more reliably than rich boys",
+      "proposition": "Poor boys → earned experience → wealthy status | Rich boys → inherited wealth → eventual poverty",
+      "layer": 0,
+      "source_ref": "Chapter 4: Don't Get Above Your Business",
+      "tags": {
+        "priority": "key",
+        "certainty": "argued",
+        "stance": "endorsed",
+        "domain": "economics",
+        "role": "prediction"
+      },
+      "parent": "",
+      "entities": []
+    },
+    {
+      "slug": "interest-compounds-for-lenders-only",
+      "title": "Interest compounds for lenders only",
+      "proposition": "Money in debt → works against → the debtor while the creditor sleeps",
+      "layer": 0,
+      "source_ref": "Section: Avoid Debt, on money as servant or master",
+      "tags": {
+        "priority": "key",
+        "certainty": "established",
+        "stance": "endorsed",
+        "domain": "finance",
+        "role": "metaphor"
+      },
+      "parent": "",
+      "entities": [
+        "Debt"
+      ]
+    },
+    {
+      "slug": "focused-effort-beats-scattered-powers",
+      "title": "Focused effort beats scattered powers",
+      "proposition": "Undivided attention on one business → consistent improvement → fortune accumulation; Visionary jumping between businesses → perpetual struggle → poverty",
+      "layer": 0,
+      "source_ref": "Chapter 5: Do Not Scatter Your Powers; Let Hope Predominate",
+      "tags": {
+        "priority": "key",
+        "certainty": "argued",
+        "stance": "endorsed",
+        "domain": "finance",
+        "role": "argument"
+      },
+      "parent": "",
+      "entities": []
+    },
+    {
+      "slug": "wealth-without-earned-understanding-corrupts-character",
+      "title": "Wealth without earned understanding corrupts character",
+      "proposition": "Unearned wealth → youth arrogance → dissipation → character ruin and poverty",
+      "layer": 0,
+      "source_ref": "Chapter 4: Don't Get Above Your Business (wealthy heir illustration)",
+      "tags": {
+        "priority": "key",
+        "certainty": "argued",
+        "stance": "endorsed",
+        "domain": "psychology",
+        "role": "argument"
+      },
+      "parent": "",
+      "entities": []
+    },
+    {
+      "slug": "economy-is-not-about-frugal-behavior",
+      "title": "Economy is not about frugal behavior",
+      "proposition": "True economy → is not → petty cost-cutting or saving cheese-parings",
+      "layer": 0,
+      "source_ref": "Introduction, paragraph on misapprehended economy",
+      "tags": {
+        "priority": "core",
+        "certainty": "established",
+        "stance": "endorsed",
+        "domain": "finance",
+        "role": "definition"
+      },
+      "parent": "",
+      "entities": [
+        "Economy"
+      ]
+    },
+    {
+      "slug": "good-health-is-foundational-to-success",
+      "title": "Good health is foundational to success",
+      "proposition": "Making money → requires → good health as substratum",
+      "layer": 0,
+      "source_ref": "Introduction, paragraph beginning 'The foundation of success'",
+      "tags": {
+        "priority": "core",
+        "certainty": "established",
+        "stance": "endorsed",
+        "domain": "health",
+        "role": "argument"
+      },
+      "parent": "",
+      "entities": [
+        "Health",
+        "Wealth"
+      ]
+    },
+    {
+      "slug": "brain-and-judgment-matter-more-than-mere-labor",
+      "title": "Brain and judgment matter more than mere labor",
+      "proposition": "Thinking workers → greater value → better employees than non-thinking hands",
+      "layer": 0,
+      "source_ref": "Chapter 3: Use the Best Tools (Beecher illustration)",
+      "tags": {
+        "priority": "core",
+        "certainty": "established",
+        "stance": "endorsed",
+        "domain": "employment",
+        "role": "argument"
+      },
+      "parent": "",
+      "entities": []
+    },
+    {
+      "slug": "deep-knowledge-prevents-deception",
+      "title": "Deep knowledge prevents deception",
+      "proposition": "Thorough business knowledge → enables → recognition of fraudulent details",
+      "layer": 0,
+      "source_ref": "Section: Depend Upon Your Own Personal Exertions, Cuvier example",
+      "tags": {
+        "priority": "key",
+        "certainty": "established",
+        "stance": "endorsed",
+        "domain": "knowledge",
+        "role": "argument"
+      },
+      "parent": "",
+      "entities": [
+        "Cuvier"
+      ]
+    },
+    {
+      "slug": "quality-products-and-advertising-create-awareness",
+      "title": "Quality products and advertising create awareness",
+      "proposition": "Genuine article + repetitive advertising → public knowledge → profitable sales; Advertisement exposure → reader progression from awareness to purchase commitment",
+      "layer": 0,
+      "source_ref": "Chapter 5: Advertise Your Business",
+      "tags": {
+        "priority": "key",
+        "certainty": "established",
+        "stance": "endorsed",
+        "domain": "business",
+        "role": "argument"
+      },
+      "parent": "",
+      "entities": [
+        "Advertising"
+      ]
+    },
+    {
+      "slug": "customer-insult-loses-future-revenue",
+      "title": "Customer insult loses future revenue",
+      "proposition": "Insulting paying customer → loss of customer and friends → revenue destruction",
+      "layer": 0,
+      "source_ref": "Chapter 5: Be Polite and Kind to Your Customers (Museum usher example)",
+      "tags": {
+        "priority": "support",
+        "certainty": "established",
+        "stance": "endorsed",
+        "domain": "business",
+        "role": "example"
+      },
+      "parent": "",
+      "entities": []
+    },
+    {
+      "slug": "choose-a-vocation-suited-to-aptitude",
+      "title": "Choose a vocation suited to aptitude",
+      "proposition": "Success in occupation → requires → matching natural aptitude to vocation choice",
+      "layer": 0,
+      "source_ref": "Section: Don't Mistake Your Vocation",
+      "tags": {
+        "priority": "core",
+        "certainty": "established",
+        "stance": "endorsed",
+        "domain": "career",
+        "role": "argument"
+      },
+      "parent": "",
+      "entities": [
+        "Vocation"
+      ]
+    },
+    {
+      "slug": "one-purchase-triggers-cascading-expenses",
+      "title": "One purchase triggers cascading expenses",
+      "proposition": "A single furniture purchase → triggers → coordinating purchases until lifestyle expands",
+      "layer": 0,
+      "source_ref": "Introduction, anecdote of the sofa",
+      "tags": {
+        "priority": "support",
+        "certainty": "established",
+        "stance": "endorsed",
+        "domain": "finance",
+        "role": "example"
+      },
+      "parent": "",
+      "entities": []
+    },
+    {
+      "slug": "retain-talented-employees-over-time",
+      "title": "Retain talented employees over time",
+      "proposition": "Experienced employees → increase in value → should not be readily replaced",
+      "layer": 0,
+      "source_ref": "Chapter 3: Use the Best Tools",
+      "tags": {
+        "priority": "core",
+        "certainty": "established",
+        "stance": "endorsed",
+        "domain": "employment",
+        "role": "argument"
+      },
+      "parent": "",
+      "entities": []
+    },
+    {
+      "slug": "luck-does-not-exist",
+      "title": "Luck does not exist",
+      "proposition": "Success and failure → follow from → proper methods and causes, not luck",
+      "layer": 0,
+      "source_ref": "Chunk 02, Rothschild maxim and subsequent explanation",
+      "tags": {
+        "priority": "core",
+        "certainty": "argued",
+        "stance": "endorsed",
+        "domain": "philosophy",
+        "role": "argument"
+      },
+      "parent": "",
+      "entities": [
+        "Luck"
+      ]
+    },
+    {
+      "slug": "mistakes-are-teaching-opportunities",
+      "title": "Mistakes are teaching opportunities",
+      "proposition": "Business mistakes → can become → valuable experience if observed closely",
+      "layer": 0,
+      "source_ref": "Section: Depend Upon Your Own Personal Exertions",
+      "tags": {
+        "priority": "support",
+        "certainty": "established",
+        "stance": "endorsed",
+        "domain": "learning",
+        "role": "argument"
+      },
+      "parent": "",
+      "entities": []
+    },
+    {
+      "slug": "constant-business-changing-keeps-one-poor",
+      "title": "Constant business changing keeps one poor",
+      "proposition": "Visionary jumping between businesses → perpetual struggle → poverty",
+      "layer": 0,
+      "source_ref": "Chapter 5: Let Hope Predominate (visionary example)",
+      "tags": {
+        "priority": "key",
+        "certainty": "argued",
+        "stance": "endorsed",
+        "domain": "finance",
+        "role": "argument"
+      },
+      "parent": "",
+      "entities": []
+    },
+    {
+      "slug": "honesty-enables-community-credit-access",
+      "title": "Honesty enables community credit access",
+      "proposition": "Known honesty → community credit access → purses of entire community available",
+      "layer": 0,
+      "source_ref": "Chapter 5: Preserve Your Integrity",
+      "tags": {
+        "priority": "support",
+        "certainty": "established",
+        "stance": "endorsed",
+        "domain": "ethics",
+        "role": "argument"
+      },
+      "parent": "",
+      "entities": [
+        "Integrity",
+        "Wealth"
+      ]
+    },
+    {
+      "slug": "targeted-charity-achieves-more-good",
+      "title": "Targeted charity achieves more good",
+      "proposition": "Selective assistance to self-helpers → greater good than indiscriminate almsgiving",
+      "layer": 0,
+      "source_ref": "Chapter 5: Be Charitable",
+      "tags": {
+        "priority": "support",
+        "certainty": "argued",
+        "stance": "endorsed",
+        "domain": "ethics",
+        "role": "argument"
+      },
+      "parent": "",
+      "entities": [
+        "Charity"
+      ]
+    },
+    {
+      "slug": "tracking-expenditure-reveals-hidden-luxuries",
+      "title": "Tracking expenditure reveals hidden luxuries",
+      "proposition": "Recording daily expenditure → enables → awareness of spending patterns",
+      "layer": 0,
+      "source_ref": "Introduction, recipe for curing extravagance",
+      "tags": {
+        "priority": "key",
+        "certainty": "established",
+        "stance": "endorsed",
+        "domain": "finance",
+        "role": "methodology"
+      },
+      "parent": "",
+      "entities": [
+        "Ledger"
+      ]
+    },
+    {
+      "slug": "creditors-have-perfect-memories",
+      "title": "Creditors have perfect memories",
+      "proposition": "Creditors → possess → perfect memories and will eventually collect",
+      "layer": 0,
+      "source_ref": "Section: Avoid Debt, discussion of lazy apprentice Horatio",
+      "tags": {
+        "priority": "support",
+        "certainty": "established",
+        "stance": "endorsed",
+        "domain": "finance",
+        "role": "observation"
+      },
+      "parent": "",
+      "entities": []
+    },
+    {
+      "slug": "perseverance-determines-success",
+      "title": "Perseverance determines success",
+      "proposition": "Achieving goals → depends on → perseverance through setbacks and doubt",
+      "layer": 0,
+      "source_ref": "Section: Persevere",
+      "tags": {
+        "priority": "core",
+        "certainty": "argued",
+        "stance": "endorsed",
+        "domain": "psychology",
+        "role": "argument"
+      },
+      "parent": "",
+      "entities": [
+        "Perseverance"
+      ]
+    },
+    {
+      "slug": "location-determines-business-success",
+      "title": "Location determines business success",
+      "proposition": "Business success → depends on → selecting proper location matching demand",
+      "layer": 0,
+      "source_ref": "Section: Select the Right Location",
+      "tags": {
+        "priority": "core",
+        "certainty": "established",
+        "stance": "endorsed",
+        "domain": "business",
+        "role": "argument"
+      },
+      "parent": "",
+      "entities": [
+        "Location"
+      ]
+    },
+    {
+      "slug": "wholesale-effort-trumps-half-measures",
+      "title": "Wholesale effort trumps half measures",
+      "proposition": "Acquiring fortune → requires → doing business thoroughly with all might",
+      "layer": 0,
+      "source_ref": "Section: Whatever You Do, Do It With All Your Might",
+      "tags": {
+        "priority": "core",
+        "certainty": "established",
+        "stance": "endorsed",
+        "domain": "work",
+        "role": "argument"
+      },
+      "parent": "",
+      "entities": [
+        "Perseverance"
+      ]
+    },
+    {
+      "slug": "self-earned-capital-teaches-discipline-and-value",
+      "title": "Self-earned capital teaches discipline and value",
+      "proposition": "Borrowed capital → lack of value understanding → business failure; Earned capital → effort and sacrifice → understanding of value → wealth accumulation",
+      "layer": 0,
+      "source_ref": "Chapter 4: Don't Get Above Your Business",
+      "tags": {
+        "priority": "key",
+        "certainty": "established",
+        "stance": "endorsed",
+        "domain": "finance",
+        "role": "argument"
+      },
+      "parent": "",
+      "entities": [
+        "Wealth",
+        "Capital",
+        "Economy",
+        "Perseverance"
+      ]
+    },
+    {
+      "slug": "secrecy-maintains-business-advantage",
+      "title": "Secrecy maintains business advantage",
+      "proposition": "Revealing business secrets → loss of competitive advantage → diminished profits",
+      "layer": 0,
+      "source_ref": "Chapter 5: Don't Blab",
+      "tags": {
+        "priority": "key",
+        "certainty": "argued",
+        "stance": "endorsed",
+        "domain": "business",
+        "role": "argument"
+      },
+      "parent": "",
+      "entities": []
+    },
+    {
+      "slug": "excessive-system-defeats-itself",
+      "title": "Excessive system defeats itself",
+      "proposition": "Over-systematization → retrieval loss → bureaucratic inefficiency without results",
+      "layer": 0,
+      "source_ref": "Chapter 5: Be Systematic (Astor House example)",
+      "tags": {
+        "priority": "support",
+        "certainty": "argued",
+        "stance": "endorsed",
+        "domain": "work",
+        "role": "argument"
+      },
+      "parent": "",
+      "entities": [
+        "System"
+      ]
+    },
+    {
+      "slug": "tobacco-undermines-health-and-finances",
+      "title": "Tobacco undermines health and finances",
+      "proposition": "Tobacco use → creates → artificial appetite that damages health and wealth",
+      "layer": 0,
+      "source_ref": "Introduction, extended discussion of tobacco chewing and smoking",
+      "tags": {
+        "priority": "key",
+        "certainty": "established",
+        "stance": "endorsed",
+        "domain": "health",
+        "role": "argument"
+      },
+      "parent": "",
+      "entities": [
+        "Tobacco"
+      ]
+    },
+    {
+      "slug": "sound-business-operations-require-knowledge-capable-people-and-strategic-discretion",
+      "title": "Sound business operations require knowledge, capable people, and strategic discretion",
+      "proposition": "A business survives and scales through the owner's firsthand knowledge and personal oversight, the leverage of skilled employees and systematic processes, and the discipline to keep sensitive information controlled, because ignorance, poor help, and loose talk each independently invite ruin",
+      "layer": 2,
+      "source_ref": "",
+      "tags": {},
+      "parent": "",
+      "entities": [
+        "Capital",
+        "Firsthand knowledge and personal oversight protect against business failure|direct knowledge and oversight",
+        "Speculation",
+        "Skilled employees and systematic operation multiply business capacity|talented employees and systematic procedure",
+        "Business discretion preserves competitive advantage and creditworthiness|disciplined discretion"
+      ]
+    },
+    {
+      "slug": "financial-discipline-and-capital-integrity-are-the-arithmetic-foundation-of-wealth",
+      "title": "Financial discipline and capital integrity are the arithmetic foundation of wealth",
+      "proposition": "Lasting wealth rests on three interlocking financial disciplines, maintaining income over expenditure, refusing debt, and building capital through personal effort rather than borrowing, because each reinforces the others and the absence of any one undermines the rest",
+      "layer": 2,
+      "source_ref": "",
+      "tags": {},
+      "parent": "",
+      "entities": [
+        "True economy is disciplined spending that maintains income over expenditure|income must exceed expenditure",
+        "Debt enslaves the borrower while enriching the creditor|debt",
+        "Earned capital builds lasting wealth while unearned capital destroys it|capital must be self-earned"
+      ]
+    },
+    {
+      "slug": "honest-dealing-genuine-advertising-and-charitable-reputation-compound-into-lasting-commercial-trust",
+      "title": "Honest dealing, genuine advertising, and charitable reputation compound into lasting commercial trust",
+      "proposition": "The external face of a business, its advertising, customer treatment, and moral reputation, either compounds trust into lasting patronage or erodes it irreversibly, making integrity not merely a virtue but a commercial mechanism",
+      "layer": 2,
+      "source_ref": "",
+      "tags": {},
+      "parent": "",
+      "entities": [
+        "Advertising genuine goods creates compounding customer awareness|Persistent advertising of genuine goods",
+        "Integrity",
+        "Customer relationships and charitable reputation drive sustained revenue|politeness, kindness, and charitable giving",
+        "Integrity is the indispensable foundation of lasting prosperity|integrity itself"
+      ]
+    },
+    {
+      "slug": "personal-capacity-vocational-fit-and-relentless-effort-are-the-engine-of-wealth-creation",
+      "title": "Personal capacity, vocational fit, and relentless effort are the engine of wealth creation",
+      "proposition": "The individual who would create wealth must first secure physical and mental capacity through health and sobriety, then align natural aptitude with a suitable vocation, and finally apply sustained concentrated effort to that vocation without distraction or attribution to luck",
+      "layer": 2,
+      "source_ref": "",
+      "tags": {},
+      "parent": "",
+      "entities": [
+        "Capital",
+        "Physical health and sobriety are prerequisites for wealth creation|Health and sobriety",
+        "Vocational alignment and practical skill determine business viability|choosing a vocation that fits one's aptitude",
+        "Sustained focused effort and perseverance produce wealth, not luck|concentrated perseverance",
+        "Luck"
+      ]
+    },
+    {
+      "slug": "integrity-is-the-indispensable-foundation-of-lasting-prosperity",
+      "title": "Integrity is the indispensable foundation of lasting prosperity",
+      "proposition": "Integrity → functions as → the indispensable foundation of lasting prosperity, because honesty opens credit, dishonesty closes all paths to success, and wealth itself is justified only by responsibility to human happiness",
+      "layer": 1,
+      "source_ref": "Chapter 5: Preserve Your Integrity",
+      "tags": {
+        "priority": "core",
+        "certainty": "established",
+        "stance": "endorsed",
+        "domain": "ethics",
+        "role": "synthesis"
+      },
+      "parent": "",
+      "entities": [
+        "Integrity is more valuable than wealth|integrity surpasses diamonds and rubies",
+        "Dishonesty inevitably discovered destroys opportunity|dishonesty is always eventually discovered",
+        "Honesty enables community credit access|known honesty",
+        "Wealth",
+        "Wealth pursuit requires accepting responsibility|the desire for wealth is laudable",
+        "Commerce is civilization's foundation|commerce parallels civilization itself",
+        "Commerce"
+      ]
+    },
+    {
+      "slug": "earned-capital-builds-lasting-wealth-while-unearned-capital-destroys-it",
+      "title": "Earned capital builds lasting wealth while unearned capital destroys it",
+      "proposition": "Self-earned capital → teaches discipline and value understanding that borrowed or inherited capital cannot provide, making earned wealth durable and unearned wealth self-destructive",
+      "layer": 1,
+      "source_ref": "Chapter 4: Don't Get Above Your Business; Chapter 5: Don't Indorse Without Security",
+      "tags": {
+        "priority": "core",
+        "certainty": "argued",
+        "stance": "endorsed",
+        "domain": "finance",
+        "role": "synthesis"
+      },
+      "parent": "",
+      "entities": [
+        "Starting with borrowed capital prevents real wealth building|Borrowed capital",
+        "Self-earned capital teaches discipline and value|self-earned capital",
+        "Poor boys rise more reliably than rich boys|poor boys outperform rich boys",
+        "Wealth without earned understanding corrupts character|unearned wealth corrupts character",
+        "Easy access to credit encourages dangerous speculation|Easy credit"
+      ]
+    },
+    {
+      "slug": "vocational-alignment-and-practical-skill-determine-business-viability",
+      "title": "Vocational alignment and practical skill determine business viability",
+      "proposition": "Success requires → matching natural aptitude to vocation and location, because excellence in a well-chosen field guarantees patronage while misalignment guarantees struggle",
+      "layer": 1,
+      "source_ref": "Sections: Don't Mistake Your Vocation; Select the Right Location; Learn Something Useful; Don't Get Above Your Business",
+      "tags": {
+        "priority": "core",
+        "certainty": "established",
+        "stance": "endorsed",
+        "domain": "career",
+        "role": "synthesis"
+      },
+      "parent": "",
+      "entities": [
+        "Choose a vocation suited to aptitude|Natural aptitude",
+        "Vocation",
+        "Location determines business success|location determines demand",
+        "Practical skill prevents destitution|practical skill",
+        "Wealth",
+        "Location",
+        "Excellence in one's field cannot fail to succeed|excellence becomes self-rewarding"
+      ]
+    },
+    {
+      "slug": "physical-health-and-sobriety-are-prerequisites-for-wealth-creation",
+      "title": "Physical health and sobriety are prerequisites for wealth creation",
+      "proposition": "Wealth creation → demands → sound health and clear judgment, which tobacco and alcohol systematically destroy",
+      "layer": 1,
+      "source_ref": "Introduction through Chunk 01, health and temperance passages",
+      "tags": {
+        "priority": "core",
+        "certainty": "established",
+        "stance": "endorsed",
+        "domain": "health",
+        "role": "synthesis"
+      },
+      "parent": "",
+      "entities": [
+        "Good health is foundational to success|Good health",
+        "Wealth",
+        "Tobacco undermines health and finances|Tobacco",
+        "Tobacco",
+        "Intoxication prevents sound judgment|intoxication",
+        "Health"
+      ]
+    },
+    {
+      "slug": "business-discretion-preserves-competitive-advantage-and-creditworthiness",
+      "title": "Business discretion preserves competitive advantage and creditworthiness",
+      "proposition": "Discretion about profits, losses, and obligations → preserves → competitive advantage and reputation, because revealed secrets invite competition and disclosed losses accelerate ruin",
+      "layer": 1,
+      "source_ref": "Chapter 5: Don't Blab; Don't Indorse Without Security",
+      "tags": {
+        "priority": "key",
+        "certainty": "argued",
+        "stance": "endorsed",
+        "domain": "business",
+        "role": "synthesis"
+      },
+      "parent": "",
+      "entities": [
+        "Secrecy maintains business advantage|Revealing business secrets",
+        "Reputation loss precedes financial loss|publicly announcing losses",
+        "Capital",
+        "Endorsements without security enable ruin|endorsing notes without security",
+        "Speculation"
+      ]
+    },
+    {
+      "slug": "sustained-focused-effort-and-perseverance-produce-wealth-not-luck",
+      "title": "Sustained focused effort and perseverance produce wealth, not luck",
+      "proposition": "Fortune follows → sustained concentration on a single pursuit with full energy, because scattered effort and attribution to luck both prevent the causal accumulation that wealth requires",
+      "layer": 1,
+      "source_ref": "Sections: Persevere; Whatever You Do, Do It With All Your Might; Do Not Scatter Your Powers; Let Hope Predominate",
+      "tags": {
+        "priority": "core",
+        "certainty": "argued",
+        "stance": "endorsed",
+        "domain": "work",
+        "role": "synthesis"
+      },
+      "parent": "",
+      "entities": [
+        "Perseverance determines success|Perseverance",
+        "Wholesale effort trumps half measures|Doing business with full might",
+        "Constant business changing keeps one poor|jumping between ventures",
+        "Focused effort beats scattered powers|undivided attention",
+        "Wealth",
+        "Luck does not exist|luck",
+        "Luck"
+      ]
+    },
+    {
+      "slug": "true-economy-is-disciplined-spending-that-maintains-income-over-expenditure",
+      "title": "True economy is disciplined spending that maintains income over expenditure",
+      "proposition": "True economy → requires → systematic discipline over spending rather than petty frugality, because social pressure and lifestyle creep silently erode the income-expenditure margin",
+      "layer": 1,
+      "source_ref": "Introduction, foundational principle through sofa anecdote",
+      "tags": {
+        "priority": "core",
+        "certainty": "established",
+        "stance": "endorsed",
+        "domain": "finance",
+        "role": "synthesis"
+      },
+      "parent": "",
+      "entities": [
+        "Wealth",
+        "Social comparison drives wasteful spending|social comparison",
+        "Prosperity requires self-regulation|unregulated prosperity",
+        "One purchase triggers cascading expenses|cascading purchases",
+        "Economy is not about frugal behavior|True economy",
+        "Tracking expenditure reveals hidden luxuries|tracking expenditure",
+        "Income must exceed expenditure|income"
+      ]
+    },
+    {
+      "slug": "advertising-genuine-goods-creates-compounding-customer-awareness",
+      "title": "Advertising genuine goods creates compounding customer awareness",
+      "proposition": "Persistent advertising of genuine products → builds → compounding public awareness that converts to purchases, but advertising fraudulent goods accelerates business death",
+      "layer": 1,
+      "source_ref": "Chapter 5: Advertise Your Business",
+      "tags": {
+        "priority": "core",
+        "certainty": "argued",
+        "stance": "endorsed",
+        "domain": "business",
+        "role": "synthesis"
+      },
+      "parent": "",
+      "entities": [
+        "Quality products can succeed with advertising|A genuine article",
+        "Advertising",
+        "Repetition creates purchasing intention|seven exposures",
+        "Fraudulent goods lose customers permanently|advertising spurious articles"
+      ]
+    },
+    {
+      "slug": "firsthand-knowledge-and-personal-oversight-protect-against-business-failure",
+      "title": "Firsthand knowledge and personal oversight protect against business failure",
+      "proposition": "Business survival → requires → the owner's direct knowledge and oversight, because delegation without expertise invites deception and speculation outside one's competence destroys accumulated wealth",
+      "layer": 1,
+      "source_ref": "Sections: Depend Upon Your Own Personal Exertions; Beware of Outside Operations; Rothschild maxim",
+      "tags": {
+        "priority": "core",
+        "certainty": "established",
+        "stance": "endorsed",
+        "domain": "business",
+        "role": "synthesis"
+      },
+      "parent": "",
+      "entities": [
+        "Personal oversight exceeds delegation|the employer's eye outweighs a dozen employees' hands",
+        "Mistakes are teaching opportunities|mistakes become experience",
+        "Deep knowledge prevents deception|thorough knowledge",
+        "Speculation outside expertise destroys wealth|venturing outside one's expertise",
+        "Rothschild",
+        "Caution and boldness both necessary|be cautious in planning and bold in execution"
+      ]
+    },
+    {
+      "slug": "skilled-employees-and-systematic-operation-multiply-business-capacity",
+      "title": "Skilled employees and systematic operation multiply business capacity",
+      "proposition": "Business capacity → multiplies → through retaining thinking employees, operating systematically, and staying informed, but excessive rigidity defeats the purpose of system",
+      "layer": 1,
+      "source_ref": "Chapter 3: Use the Best Tools; Chapter 5: Be Systematic; Read the Newspapers",
+      "tags": {
+        "priority": "key",
+        "certainty": "established",
+        "stance": "endorsed",
+        "domain": "business",
+        "role": "synthesis"
+      },
+      "parent": "",
+      "entities": [
+        "Retain talented employees over time|Experienced employees increase in value daily",
+        "Brain and judgment matter more than mere labor|intellectual capacity alongside labor",
+        "System doubles productivity|systematic procedure",
+        "Excessive system defeats itself|over-systematization",
+        "Stay informed about business developments|reading trustworthy newspapers"
+      ]
+    },
+    {
+      "slug": "debt-enslaves-the-borrower-while-enriching-the-creditor",
+      "title": "Debt enslaves the borrower while enriching the creditor",
+      "proposition": "Debt → creates → an asymmetric master-servant relationship where compound interest works for the creditor and against the debtor",
+      "layer": 1,
+      "source_ref": "Section: Avoid Debt",
+      "tags": {
+        "priority": "core",
+        "certainty": "established",
+        "stance": "endorsed",
+        "domain": "finance",
+        "role": "synthesis"
+      },
+      "parent": "",
+      "entities": [
+        "Debt",
+        "Debt is enslavement|Running into debt",
+        "Creditors have perfect memories|creditors possess the best memories",
+        "Interest compounds for lenders only|money in debt works against the debtor",
+        "Wealth"
+      ]
+    },
+    {
+      "slug": "customer-relationships-and-charitable-reputation-drive-sustained-revenue",
+      "title": "Customer relationships and charitable reputation drive sustained revenue",
+      "proposition": "Revenue sustains → through politeness that retains customers and generosity that attracts patronage, because each interaction compounds into reputation that either builds or destroys a business",
+      "layer": 1,
+      "source_ref": "Chapter 5: Be Polite and Kind to Your Customers; Be Charitable",
+      "tags": {
+        "priority": "core",
+        "certainty": "established",
+        "stance": "endorsed",
+        "domain": "business",
+        "role": "synthesis"
+      },
+      "parent": "",
+      "entities": [
+        "Politeness retains customer relationships|Politeness and civility",
+        "Capital",
+        "Customer insult loses future revenue|insulting a paying customer",
+        "Charity produces business benefits|charitable giving",
+        "Targeted charity achieves more good|selective assistance to self-helpers",
+        "Charity"
+      ]
+    }
+  ]
+}

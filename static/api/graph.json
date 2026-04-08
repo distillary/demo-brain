@@ -1,0 +1,2504 @@
+{
+  "nodes": [
+    {
+      "id": "_suggestions",
+      "kind": "",
+      "layer": -1,
+      "source": ""
+    },
+    {
+      "id": "_index",
+      "kind": "",
+      "layer": -1,
+      "source": ""
+    },
+    {
+      "id": "skill",
+      "kind": "",
+      "layer": -1,
+      "source": ""
+    },
+    {
+      "id": "_source",
+      "kind": "",
+      "layer": -1,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "The Art of Money Getting",
+      "kind": "",
+      "layer": -1,
+      "source": ""
+    },
+    {
+      "id": "Wealth is built by disciplined character operating through sound business practices, not by luck or shortcuts",
+      "kind": "claim",
+      "layer": 3,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Ledger",
+      "kind": "entity",
+      "layer": -1,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Rothschild",
+      "kind": "entity",
+      "layer": -1,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Cuvier",
+      "kind": "entity",
+      "layer": -1,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "P.T. Barnum",
+      "kind": "entity",
+      "layer": -1,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Tobacco",
+      "kind": "entity",
+      "layer": -1,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Intoxication",
+      "kind": "entity",
+      "layer": -1,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Location",
+      "kind": "entity",
+      "layer": -1,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Speculation",
+      "kind": "entity",
+      "layer": -1,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Integrity",
+      "kind": "entity",
+      "layer": -1,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Perseverance",
+      "kind": "entity",
+      "layer": -1,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Mrs. Grundy",
+      "kind": "entity",
+      "layer": -1,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Excellence",
+      "kind": "entity",
+      "layer": -1,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Charity",
+      "kind": "entity",
+      "layer": -1,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Debt",
+      "kind": "entity",
+      "layer": -1,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Economy",
+      "kind": "entity",
+      "layer": -1,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Advertising",
+      "kind": "entity",
+      "layer": -1,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Wealth",
+      "kind": "entity",
+      "layer": -1,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Vocation",
+      "kind": "entity",
+      "layer": -1,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "System",
+      "kind": "entity",
+      "layer": -1,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Commerce",
+      "kind": "entity",
+      "layer": -1,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Capital",
+      "kind": "entity",
+      "layer": -1,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Health",
+      "kind": "entity",
+      "layer": -1,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Luck",
+      "kind": "entity",
+      "layer": -1,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Mistakes and close observation enable learning",
+      "kind": "claim",
+      "layer": 0,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Wholesale effort and thoroughness trump half measures",
+      "kind": "claim",
+      "layer": 0,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Practical skill prevents destitution",
+      "kind": "claim",
+      "layer": 0,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Politeness and kindness retain customers",
+      "kind": "claim",
+      "layer": 0,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Dishonesty inevitably discovered destroys opportunity",
+      "kind": "claim",
+      "layer": 0,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Easy access to credit encourages dangerous speculation",
+      "kind": "claim",
+      "layer": 0,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Reputation precedes financial condition",
+      "kind": "claim",
+      "layer": 0,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Commerce is civilization's foundation",
+      "kind": "claim",
+      "layer": 0,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Debt compounds against the debtor",
+      "kind": "claim",
+      "layer": 0,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Intoxication prevents sound judgment",
+      "kind": "claim",
+      "layer": 0,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Politeness retains customer relationships",
+      "kind": "claim",
+      "layer": 0,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Excellence in one's field cannot fail to succeed",
+      "kind": "claim",
+      "layer": 0,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Income must exceed expenditure",
+      "kind": "claim",
+      "layer": 0,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Retain and develop talented employees",
+      "kind": "claim",
+      "layer": 0,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Easy credit and risky endorsements enable ruin",
+      "kind": "claim",
+      "layer": 0,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Cascading purchases expand lifestyle permanently",
+      "kind": "claim",
+      "layer": 0,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Integrity is more valuable than wealth",
+      "kind": "claim",
+      "layer": 0,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "System doubles productivity",
+      "kind": "claim",
+      "layer": 0,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Choose a vocation suited to aptitude and excel",
+      "kind": "claim",
+      "layer": 0,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Social comparison drives wasteful spending",
+      "kind": "claim",
+      "layer": 0,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Speculation outside expertise destroys wealth",
+      "kind": "claim",
+      "layer": 0,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Prosperity requires self-regulation",
+      "kind": "claim",
+      "layer": 0,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Integrity is the foundation of all success",
+      "kind": "claim",
+      "layer": 0,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Reputation loss precedes financial loss",
+      "kind": "claim",
+      "layer": 0,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Endorsements without security enable ruin",
+      "kind": "claim",
+      "layer": 0,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Wealth pursuit requires accepting responsibility",
+      "kind": "claim",
+      "layer": 0,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Starting with borrowed capital prevents real wealth building",
+      "kind": "claim",
+      "layer": 0,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Personal oversight exceeds delegation",
+      "kind": "claim",
+      "layer": 0,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Caution and boldness both necessary",
+      "kind": "claim",
+      "layer": 0,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Quality products can succeed with advertising",
+      "kind": "claim",
+      "layer": 0,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Debt is enslavement",
+      "kind": "claim",
+      "layer": 0,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Fraudulent goods lose customers permanently",
+      "kind": "claim",
+      "layer": 0,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Charity produces business benefits",
+      "kind": "claim",
+      "layer": 0,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Stay informed about business developments",
+      "kind": "claim",
+      "layer": 0,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Repetition creates purchasing intention",
+      "kind": "claim",
+      "layer": 0,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Poor boys rise more reliably than rich boys",
+      "kind": "claim",
+      "layer": 0,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Interest compounds for lenders only",
+      "kind": "claim",
+      "layer": 0,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Focused effort beats scattered powers",
+      "kind": "claim",
+      "layer": 0,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Wealth without earned understanding corrupts character",
+      "kind": "claim",
+      "layer": 0,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Economy is not about frugal behavior",
+      "kind": "claim",
+      "layer": 0,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Good health is foundational to success",
+      "kind": "claim",
+      "layer": 0,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Brain and judgment matter more than mere labor",
+      "kind": "claim",
+      "layer": 0,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Deep knowledge prevents deception",
+      "kind": "claim",
+      "layer": 0,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Quality products and advertising create awareness",
+      "kind": "claim",
+      "layer": 0,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Customer insult loses future revenue",
+      "kind": "claim",
+      "layer": 0,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Choose a vocation suited to aptitude",
+      "kind": "claim",
+      "layer": 0,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "One purchase triggers cascading expenses",
+      "kind": "claim",
+      "layer": 0,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Retain talented employees over time",
+      "kind": "claim",
+      "layer": 0,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Luck does not exist",
+      "kind": "claim",
+      "layer": 0,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Mistakes are teaching opportunities",
+      "kind": "claim",
+      "layer": 0,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Constant business changing keeps one poor",
+      "kind": "claim",
+      "layer": 0,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Honesty enables community credit access",
+      "kind": "claim",
+      "layer": 0,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Targeted charity achieves more good",
+      "kind": "claim",
+      "layer": 0,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Tracking expenditure reveals hidden luxuries",
+      "kind": "claim",
+      "layer": 0,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Creditors have perfect memories",
+      "kind": "claim",
+      "layer": 0,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Perseverance determines success",
+      "kind": "claim",
+      "layer": 0,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Location determines business success",
+      "kind": "claim",
+      "layer": 0,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Wholesale effort trumps half measures",
+      "kind": "claim",
+      "layer": 0,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Self-earned capital teaches discipline and value",
+      "kind": "claim",
+      "layer": 0,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Secrecy maintains business advantage",
+      "kind": "claim",
+      "layer": 0,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Excessive system defeats itself",
+      "kind": "claim",
+      "layer": 0,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Tobacco undermines health and finances",
+      "kind": "claim",
+      "layer": 0,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Sound business operations require knowledge, capable people, and strategic discretion",
+      "kind": "claim",
+      "layer": 2,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Financial discipline and capital integrity are the arithmetic foundation of wealth",
+      "kind": "claim",
+      "layer": 2,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Honest dealing, genuine advertising, and charitable reputation compound into lasting commercial trust",
+      "kind": "claim",
+      "layer": 2,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Personal capacity, vocational fit, and relentless effort are the engine of wealth creation",
+      "kind": "claim",
+      "layer": 2,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Integrity is the indispensable foundation of lasting prosperity",
+      "kind": "claim",
+      "layer": 1,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Earned capital builds lasting wealth while unearned capital destroys it",
+      "kind": "claim",
+      "layer": 1,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Vocational alignment and practical skill determine business viability",
+      "kind": "claim",
+      "layer": 1,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Physical health and sobriety are prerequisites for wealth creation",
+      "kind": "claim",
+      "layer": 1,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Business discretion preserves competitive advantage and creditworthiness",
+      "kind": "claim",
+      "layer": 1,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Sustained focused effort and perseverance produce wealth, not luck",
+      "kind": "claim",
+      "layer": 1,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "True economy is disciplined spending that maintains income over expenditure",
+      "kind": "claim",
+      "layer": 1,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Advertising genuine goods creates compounding customer awareness",
+      "kind": "claim",
+      "layer": 1,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Firsthand knowledge and personal oversight protect against business failure",
+      "kind": "claim",
+      "layer": 1,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Skilled employees and systematic operation multiply business capacity",
+      "kind": "claim",
+      "layer": 1,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Debt enslaves the borrower while enriching the creditor",
+      "kind": "claim",
+      "layer": 1,
+      "source": "barnum-art-of-money-getting"
+    },
+    {
+      "id": "Customer relationships and charitable reputation drive sustained revenue",
+      "kind": "claim",
+      "layer": 1,
+      "source": "barnum-art-of-money-getting"
+    }
+  ],
+  "edges": [
+    {
+      "source": "_suggestions",
+      "target": "Ledger"
+    },
+    {
+      "source": "_suggestions",
+      "target": "Excellence"
+    },
+    {
+      "source": "_suggestions",
+      "target": "Intoxication"
+    },
+    {
+      "source": "_index",
+      "target": "The Art of Money Getting"
+    },
+    {
+      "source": "_index",
+      "target": "P.T. Barnum"
+    },
+    {
+      "source": "_index",
+      "target": "Financial discipline and capital integrity are the arithmetic foundation of wealth|financial discipline"
+    },
+    {
+      "source": "_index",
+      "target": "Personal capacity, vocational fit, and relentless effort are the engine of wealth creation|personal capacity"
+    },
+    {
+      "source": "_index",
+      "target": "Sound business operations require knowledge, capable people, and strategic discretion|operational excellence"
+    },
+    {
+      "source": "_index",
+      "target": "Honest dealing, genuine advertising, and charitable reputation compound into lasting commercial trust|honest reputation"
+    },
+    {
+      "source": "_index",
+      "target": "Debt"
+    },
+    {
+      "source": "_index",
+      "target": "Integrity"
+    },
+    {
+      "source": "_index",
+      "target": "The Art of Money Getting|source index page"
+    },
+    {
+      "source": "_index",
+      "target": "Financial discipline and capital integrity are the arithmetic foundation of wealth|financial discipline"
+    },
+    {
+      "source": "_index",
+      "target": "Personal capacity, vocational fit, and relentless effort are the engine of wealth creation|personal capacity"
+    },
+    {
+      "source": "_index",
+      "target": "Sound business operations require knowledge, capable people, and strategic discretion|operations section"
+    },
+    {
+      "source": "_index",
+      "target": "The Art of Money Getting"
+    },
+    {
+      "source": "skill",
+      "target": "linked concepts"
+    },
+    {
+      "source": "_source",
+      "target": "The Art of Money Getting"
+    },
+    {
+      "source": "The Art of Money Getting",
+      "target": "P.T. Barnum"
+    },
+    {
+      "source": "The Art of Money Getting",
+      "target": "Wealth is built by disciplined character operating through sound business practices, not by luck or shortcuts|Barnum's argument"
+    },
+    {
+      "source": "The Art of Money Getting",
+      "target": "Financial discipline and capital integrity are the arithmetic foundation of wealth|Financial discipline"
+    },
+    {
+      "source": "The Art of Money Getting",
+      "target": "Income must exceed expenditure"
+    },
+    {
+      "source": "The Art of Money Getting",
+      "target": "Debt"
+    },
+    {
+      "source": "The Art of Money Getting",
+      "target": "Capital"
+    },
+    {
+      "source": "The Art of Money Getting",
+      "target": "Personal capacity, vocational fit, and relentless effort are the engine of wealth creation|Personal capacity"
+    },
+    {
+      "source": "The Art of Money Getting",
+      "target": "Health"
+    },
+    {
+      "source": "The Art of Money Getting",
+      "target": "Perseverance"
+    },
+    {
+      "source": "The Art of Money Getting",
+      "target": "Luck"
+    },
+    {
+      "source": "The Art of Money Getting",
+      "target": "Sound business operations require knowledge, capable people, and strategic discretion|Operational excellence"
+    },
+    {
+      "source": "The Art of Money Getting",
+      "target": "Firsthand knowledge and personal oversight protect against business failure|firsthand knowledge and personal oversight"
+    },
+    {
+      "source": "The Art of Money Getting",
+      "target": "Skilled employees and systematic operation multiply business capacity|skilled employees"
+    },
+    {
+      "source": "The Art of Money Getting",
+      "target": "Honest dealing, genuine advertising, and charitable reputation compound into lasting commercial trust|External reputation"
+    },
+    {
+      "source": "The Art of Money Getting",
+      "target": "Charity"
+    },
+    {
+      "source": "The Art of Money Getting",
+      "target": "Integrity"
+    },
+    {
+      "source": "The Art of Money Getting",
+      "target": "Integrity"
+    },
+    {
+      "source": "The Art of Money Getting",
+      "target": "Financial discipline and capital integrity are the arithmetic foundation of wealth|financial discipline"
+    },
+    {
+      "source": "The Art of Money Getting",
+      "target": "Personal capacity, vocational fit, and relentless effort are the engine of wealth creation|personal capacity"
+    },
+    {
+      "source": "The Art of Money Getting",
+      "target": "Sound business operations require knowledge, capable people, and strategic discretion|operations cluster"
+    },
+    {
+      "source": "The Art of Money Getting",
+      "target": "Honest dealing, genuine advertising, and charitable reputation compound into lasting commercial trust|Reputation and integrity"
+    },
+    {
+      "source": "The Art of Money Getting",
+      "target": "Wealth"
+    },
+    {
+      "source": "The Art of Money Getting",
+      "target": "Speculation"
+    },
+    {
+      "source": "Wealth is built by disciplined character operating through sound business practices, not by luck or shortcuts",
+      "target": "System"
+    },
+    {
+      "source": "Wealth is built by disciplined character operating through sound business practices, not by luck or shortcuts",
+      "target": "Wealth"
+    },
+    {
+      "source": "Wealth is built by disciplined character operating through sound business practices, not by luck or shortcuts",
+      "target": "Financial discipline and capital integrity are the arithmetic foundation of wealth|financial discipline"
+    },
+    {
+      "source": "Wealth is built by disciplined character operating through sound business practices, not by luck or shortcuts",
+      "target": "Debt"
+    },
+    {
+      "source": "Wealth is built by disciplined character operating through sound business practices, not by luck or shortcuts",
+      "target": "Capital"
+    },
+    {
+      "source": "Wealth is built by disciplined character operating through sound business practices, not by luck or shortcuts",
+      "target": "Personal capacity, vocational fit, and relentless effort are the engine of wealth creation|personal capacity"
+    },
+    {
+      "source": "Wealth is built by disciplined character operating through sound business practices, not by luck or shortcuts",
+      "target": "Health"
+    },
+    {
+      "source": "Wealth is built by disciplined character operating through sound business practices, not by luck or shortcuts",
+      "target": "Perseverance"
+    },
+    {
+      "source": "Wealth is built by disciplined character operating through sound business practices, not by luck or shortcuts",
+      "target": "Sound business operations require knowledge, capable people, and strategic discretion|sound operations"
+    },
+    {
+      "source": "Wealth is built by disciplined character operating through sound business practices, not by luck or shortcuts",
+      "target": "Honest dealing, genuine advertising, and charitable reputation compound into lasting commercial trust|honest reputation"
+    },
+    {
+      "source": "Wealth is built by disciplined character operating through sound business practices, not by luck or shortcuts",
+      "target": "Advertising"
+    },
+    {
+      "source": "Wealth is built by disciplined character operating through sound business practices, not by luck or shortcuts",
+      "target": "Charity"
+    },
+    {
+      "source": "Wealth is built by disciplined character operating through sound business practices, not by luck or shortcuts",
+      "target": "Integrity"
+    },
+    {
+      "source": "Wealth is built by disciplined character operating through sound business practices, not by luck or shortcuts",
+      "target": "Speculation"
+    },
+    {
+      "source": "Ledger",
+      "target": "Tracking expenditure reveals hidden luxuries"
+    },
+    {
+      "source": "Rothschild",
+      "target": "Luck"
+    },
+    {
+      "source": "Rothschild",
+      "target": "Caution and boldness both necessary"
+    },
+    {
+      "source": "Rothschild",
+      "target": "Firsthand knowledge and personal oversight protect against business failure"
+    },
+    {
+      "source": "Rothschild",
+      "target": "Luck does not exist"
+    },
+    {
+      "source": "Cuvier",
+      "target": "Deep knowledge prevents deception"
+    },
+    {
+      "source": "Cuvier",
+      "target": "Deep knowledge prevents deception"
+    },
+    {
+      "source": "Cuvier",
+      "target": "Mistakes and close observation enable learning"
+    },
+    {
+      "source": "P.T. Barnum",
+      "target": "The Art of Money Getting"
+    },
+    {
+      "source": "P.T. Barnum",
+      "target": "_index"
+    },
+    {
+      "source": "P.T. Barnum",
+      "target": "_index"
+    },
+    {
+      "source": "P.T. Barnum",
+      "target": "_source"
+    },
+    {
+      "source": "Tobacco",
+      "target": "Health"
+    },
+    {
+      "source": "Tobacco",
+      "target": "Wealth"
+    },
+    {
+      "source": "Tobacco",
+      "target": "Physical health and sobriety are prerequisites for wealth creation"
+    },
+    {
+      "source": "Tobacco",
+      "target": "Tobacco undermines health and finances"
+    },
+    {
+      "source": "Intoxication",
+      "target": "Wealth"
+    },
+    {
+      "source": "Intoxication",
+      "target": "Intoxication prevents sound judgment"
+    },
+    {
+      "source": "Intoxication",
+      "target": "Physical health and sobriety are prerequisites for wealth creation"
+    },
+    {
+      "source": "Location",
+      "target": "Location determines business success"
+    },
+    {
+      "source": "Location",
+      "target": "Vocational alignment and practical skill determine business viability"
+    },
+    {
+      "source": "Speculation",
+      "target": "Easy access to credit encourages dangerous speculation"
+    },
+    {
+      "source": "Speculation",
+      "target": "Business discretion preserves competitive advantage and creditworthiness"
+    },
+    {
+      "source": "Speculation",
+      "target": "Earned capital builds lasting wealth while unearned capital destroys it"
+    },
+    {
+      "source": "Speculation",
+      "target": "Easy access to credit encourages dangerous speculation"
+    },
+    {
+      "source": "Speculation",
+      "target": "Easy credit and risky endorsements enable ruin"
+    },
+    {
+      "source": "Speculation",
+      "target": "Endorsements without security enable ruin"
+    },
+    {
+      "source": "Speculation",
+      "target": "Firsthand knowledge and personal oversight protect against business failure"
+    },
+    {
+      "source": "Speculation",
+      "target": "Sound business operations require knowledge, capable people, and strategic discretion"
+    },
+    {
+      "source": "Speculation",
+      "target": "Speculation outside expertise destroys wealth"
+    },
+    {
+      "source": "Speculation",
+      "target": "Wealth is built by disciplined character operating through sound business practices, not by luck or shortcuts"
+    },
+    {
+      "source": "Integrity",
+      "target": "Wealth"
+    },
+    {
+      "source": "Integrity",
+      "target": "Choose a vocation suited to aptitude and excel"
+    },
+    {
+      "source": "Integrity",
+      "target": "Commerce is civilization's foundation"
+    },
+    {
+      "source": "Integrity",
+      "target": "Dishonesty inevitably discovered destroys opportunity"
+    },
+    {
+      "source": "Integrity",
+      "target": "Excellence in one's field cannot fail to succeed"
+    },
+    {
+      "source": "Integrity",
+      "target": "Honest dealing, genuine advertising, and charitable reputation compound into lasting commercial trust"
+    },
+    {
+      "source": "Integrity",
+      "target": "Honesty enables community credit access"
+    },
+    {
+      "source": "Integrity",
+      "target": "Integrity is more valuable than wealth"
+    },
+    {
+      "source": "Integrity",
+      "target": "Integrity is the foundation of all success"
+    },
+    {
+      "source": "Integrity",
+      "target": "Integrity is the indispensable foundation of lasting prosperity"
+    },
+    {
+      "source": "Integrity",
+      "target": "Wealth is built by disciplined character operating through sound business practices, not by luck or shortcuts"
+    },
+    {
+      "source": "Integrity",
+      "target": "Wealth pursuit requires accepting responsibility"
+    },
+    {
+      "source": "Integrity",
+      "target": "_index"
+    },
+    {
+      "source": "Perseverance",
+      "target": "Perseverance determines success"
+    },
+    {
+      "source": "Perseverance",
+      "target": "Personal capacity, vocational fit, and relentless effort are the engine of wealth creation"
+    },
+    {
+      "source": "Perseverance",
+      "target": "Self-earned capital teaches discipline and value"
+    },
+    {
+      "source": "Perseverance",
+      "target": "Sustained focused effort and perseverance produce wealth, not luck"
+    },
+    {
+      "source": "Perseverance",
+      "target": "Wealth is built by disciplined character operating through sound business practices, not by luck or shortcuts"
+    },
+    {
+      "source": "Perseverance",
+      "target": "Wholesale effort and thoroughness trump half measures"
+    },
+    {
+      "source": "Perseverance",
+      "target": "Wholesale effort trumps half measures"
+    },
+    {
+      "source": "Mrs. Grundy",
+      "target": "Social comparison drives wasteful spending"
+    },
+    {
+      "source": "Mrs. Grundy",
+      "target": "Social comparison drives wasteful spending"
+    },
+    {
+      "source": "Mrs. Grundy",
+      "target": "True economy is disciplined spending that maintains income over expenditure"
+    },
+    {
+      "source": "Mrs. Grundy",
+      "target": "_suggestions"
+    },
+    {
+      "source": "Excellence",
+      "target": "Vocation"
+    },
+    {
+      "source": "Excellence",
+      "target": "Integrity"
+    },
+    {
+      "source": "Excellence",
+      "target": "Wealth"
+    },
+    {
+      "source": "Excellence",
+      "target": "Choose a vocation suited to aptitude and excel"
+    },
+    {
+      "source": "Excellence",
+      "target": "Excellence in one's field cannot fail to succeed"
+    },
+    {
+      "source": "Excellence",
+      "target": "Vocational alignment and practical skill determine business viability"
+    },
+    {
+      "source": "Excellence",
+      "target": "_suggestions"
+    },
+    {
+      "source": "Charity",
+      "target": "Charity produces business benefits"
+    },
+    {
+      "source": "Charity",
+      "target": "Customer relationships and charitable reputation drive sustained revenue"
+    },
+    {
+      "source": "Charity",
+      "target": "Honest dealing, genuine advertising, and charitable reputation compound into lasting commercial trust"
+    },
+    {
+      "source": "Charity",
+      "target": "Targeted charity achieves more good"
+    },
+    {
+      "source": "Charity",
+      "target": "Wealth is built by disciplined character operating through sound business practices, not by luck or shortcuts"
+    },
+    {
+      "source": "Debt",
+      "target": "Creditors have perfect memories"
+    },
+    {
+      "source": "Debt",
+      "target": "Debt compounds against the debtor"
+    },
+    {
+      "source": "Debt",
+      "target": "Debt enslaves the borrower while enriching the creditor"
+    },
+    {
+      "source": "Debt",
+      "target": "Debt is enslavement"
+    },
+    {
+      "source": "Debt",
+      "target": "Earned capital builds lasting wealth while unearned capital destroys it"
+    },
+    {
+      "source": "Debt",
+      "target": "Financial discipline and capital integrity are the arithmetic foundation of wealth"
+    },
+    {
+      "source": "Debt",
+      "target": "Interest compounds for lenders only"
+    },
+    {
+      "source": "Debt",
+      "target": "Self-earned capital teaches discipline and value"
+    },
+    {
+      "source": "Debt",
+      "target": "Starting with borrowed capital prevents real wealth building"
+    },
+    {
+      "source": "Debt",
+      "target": "Wealth is built by disciplined character operating through sound business practices, not by luck or shortcuts"
+    },
+    {
+      "source": "Economy",
+      "target": "System"
+    },
+    {
+      "source": "Economy",
+      "target": "Economy is not about frugal behavior"
+    },
+    {
+      "source": "Economy",
+      "target": "Financial discipline and capital integrity are the arithmetic foundation of wealth"
+    },
+    {
+      "source": "Economy",
+      "target": "Income must exceed expenditure"
+    },
+    {
+      "source": "Economy",
+      "target": "Self-earned capital teaches discipline and value"
+    },
+    {
+      "source": "Economy",
+      "target": "True economy is disciplined spending that maintains income over expenditure"
+    },
+    {
+      "source": "Advertising",
+      "target": "Repetition creates purchasing intention"
+    },
+    {
+      "source": "Advertising",
+      "target": "Advertising genuine goods creates compounding customer awareness"
+    },
+    {
+      "source": "Advertising",
+      "target": "Fraudulent goods lose customers permanently"
+    },
+    {
+      "source": "Advertising",
+      "target": "Honest dealing, genuine advertising, and charitable reputation compound into lasting commercial trust"
+    },
+    {
+      "source": "Advertising",
+      "target": "Quality products and advertising create awareness"
+    },
+    {
+      "source": "Advertising",
+      "target": "Quality products can succeed with advertising"
+    },
+    {
+      "source": "Advertising",
+      "target": "Repetition creates purchasing intention"
+    },
+    {
+      "source": "Advertising",
+      "target": "Wealth is built by disciplined character operating through sound business practices, not by luck or shortcuts"
+    },
+    {
+      "source": "Advertising",
+      "target": "_index"
+    },
+    {
+      "source": "Wealth",
+      "target": "Luck"
+    },
+    {
+      "source": "Wealth",
+      "target": "Wealth without earned understanding corrupts character"
+    },
+    {
+      "source": "Wealth",
+      "target": "Cascading purchases expand lifestyle permanently"
+    },
+    {
+      "source": "Wealth",
+      "target": "Choose a vocation suited to aptitude and excel"
+    },
+    {
+      "source": "Wealth",
+      "target": "Debt enslaves the borrower while enriching the creditor"
+    },
+    {
+      "source": "Wealth",
+      "target": "Earned capital builds lasting wealth while unearned capital destroys it"
+    },
+    {
+      "source": "Wealth",
+      "target": "Excellence in one's field cannot fail to succeed"
+    },
+    {
+      "source": "Wealth",
+      "target": "Financial discipline and capital integrity are the arithmetic foundation of wealth"
+    },
+    {
+      "source": "Wealth",
+      "target": "Firsthand knowledge and personal oversight protect against business failure"
+    },
+    {
+      "source": "Wealth",
+      "target": "Focused effort beats scattered powers"
+    },
+    {
+      "source": "Wealth",
+      "target": "Good health is foundational to success"
+    },
+    {
+      "source": "Wealth",
+      "target": "Honest dealing, genuine advertising, and charitable reputation compound into lasting commercial trust"
+    },
+    {
+      "source": "Wealth",
+      "target": "Honesty enables community credit access"
+    },
+    {
+      "source": "Wealth",
+      "target": "Income must exceed expenditure"
+    },
+    {
+      "source": "Wealth",
+      "target": "Integrity is the foundation of all success"
+    },
+    {
+      "source": "Wealth",
+      "target": "Integrity is the indispensable foundation of lasting prosperity"
+    },
+    {
+      "source": "Wealth",
+      "target": "Personal capacity, vocational fit, and relentless effort are the engine of wealth creation"
+    },
+    {
+      "source": "Wealth",
+      "target": "Physical health and sobriety are prerequisites for wealth creation"
+    },
+    {
+      "source": "Wealth",
+      "target": "Poor boys rise more reliably than rich boys"
+    },
+    {
+      "source": "Wealth",
+      "target": "Practical skill prevents destitution"
+    },
+    {
+      "source": "Wealth",
+      "target": "Prosperity requires self-regulation"
+    },
+    {
+      "source": "Wealth",
+      "target": "Self-earned capital teaches discipline and value"
+    },
+    {
+      "source": "Wealth",
+      "target": "Social comparison drives wasteful spending"
+    },
+    {
+      "source": "Wealth",
+      "target": "Sustained focused effort and perseverance produce wealth, not luck"
+    },
+    {
+      "source": "Wealth",
+      "target": "Tobacco undermines health and finances"
+    },
+    {
+      "source": "Wealth",
+      "target": "True economy is disciplined spending that maintains income over expenditure"
+    },
+    {
+      "source": "Wealth",
+      "target": "Vocational alignment and practical skill determine business viability"
+    },
+    {
+      "source": "Wealth",
+      "target": "Wealth is built by disciplined character operating through sound business practices, not by luck or shortcuts"
+    },
+    {
+      "source": "Wealth",
+      "target": "Wealth pursuit requires accepting responsibility"
+    },
+    {
+      "source": "Wealth",
+      "target": "Wealth without earned understanding corrupts character"
+    },
+    {
+      "source": "Wealth",
+      "target": "Wholesale effort and thoroughness trump half measures"
+    },
+    {
+      "source": "Wealth",
+      "target": "Wholesale effort trumps half measures"
+    },
+    {
+      "source": "Wealth",
+      "target": "_index"
+    },
+    {
+      "source": "Wealth",
+      "target": "_index"
+    },
+    {
+      "source": "Vocation",
+      "target": "Choose a vocation suited to aptitude"
+    },
+    {
+      "source": "Vocation",
+      "target": "Choose a vocation suited to aptitude and excel"
+    },
+    {
+      "source": "Vocation",
+      "target": "Excellence in one's field cannot fail to succeed"
+    },
+    {
+      "source": "Vocation",
+      "target": "Focused effort beats scattered powers"
+    },
+    {
+      "source": "Vocation",
+      "target": "Personal capacity, vocational fit, and relentless effort are the engine of wealth creation"
+    },
+    {
+      "source": "Vocation",
+      "target": "Practical skill prevents destitution"
+    },
+    {
+      "source": "Vocation",
+      "target": "Vocational alignment and practical skill determine business viability"
+    },
+    {
+      "source": "Vocation",
+      "target": "Wealth is built by disciplined character operating through sound business practices, not by luck or shortcuts"
+    },
+    {
+      "source": "Vocation",
+      "target": "_index"
+    },
+    {
+      "source": "System",
+      "target": "Economy is not about frugal behavior"
+    },
+    {
+      "source": "System",
+      "target": "Excessive system defeats itself"
+    },
+    {
+      "source": "System",
+      "target": "Financial discipline and capital integrity are the arithmetic foundation of wealth"
+    },
+    {
+      "source": "System",
+      "target": "Physical health and sobriety are prerequisites for wealth creation"
+    },
+    {
+      "source": "System",
+      "target": "Skilled employees and systematic operation multiply business capacity"
+    },
+    {
+      "source": "System",
+      "target": "Sound business operations require knowledge, capable people, and strategic discretion"
+    },
+    {
+      "source": "System",
+      "target": "System doubles productivity"
+    },
+    {
+      "source": "System",
+      "target": "True economy is disciplined spending that maintains income over expenditure"
+    },
+    {
+      "source": "System",
+      "target": "Wealth is built by disciplined character operating through sound business practices, not by luck or shortcuts"
+    },
+    {
+      "source": "Commerce",
+      "target": "Advertising genuine goods creates compounding customer awareness"
+    },
+    {
+      "source": "Commerce",
+      "target": "Brain and judgment matter more than mere labor"
+    },
+    {
+      "source": "Commerce",
+      "target": "Business discretion preserves competitive advantage and creditworthiness"
+    },
+    {
+      "source": "Commerce",
+      "target": "Cascading purchases expand lifestyle permanently"
+    },
+    {
+      "source": "Commerce",
+      "target": "Caution and boldness both necessary"
+    },
+    {
+      "source": "Commerce",
+      "target": "Charity produces business benefits"
+    },
+    {
+      "source": "Commerce",
+      "target": "Choose a vocation suited to aptitude"
+    },
+    {
+      "source": "Commerce",
+      "target": "Choose a vocation suited to aptitude and excel"
+    },
+    {
+      "source": "Commerce",
+      "target": "Commerce is civilization's foundation"
+    },
+    {
+      "source": "Commerce",
+      "target": "Constant business changing keeps one poor"
+    },
+    {
+      "source": "Commerce",
+      "target": "Creditors have perfect memories"
+    },
+    {
+      "source": "Commerce",
+      "target": "Customer insult loses future revenue"
+    },
+    {
+      "source": "Commerce",
+      "target": "Customer relationships and charitable reputation drive sustained revenue"
+    },
+    {
+      "source": "Commerce",
+      "target": "Debt compounds against the debtor"
+    },
+    {
+      "source": "Commerce",
+      "target": "Debt enslaves the borrower while enriching the creditor"
+    },
+    {
+      "source": "Commerce",
+      "target": "Debt is enslavement"
+    },
+    {
+      "source": "Commerce",
+      "target": "Deep knowledge prevents deception"
+    },
+    {
+      "source": "Commerce",
+      "target": "Dishonesty inevitably discovered destroys opportunity"
+    },
+    {
+      "source": "Commerce",
+      "target": "Earned capital builds lasting wealth while unearned capital destroys it"
+    },
+    {
+      "source": "Commerce",
+      "target": "Easy access to credit encourages dangerous speculation"
+    },
+    {
+      "source": "Commerce",
+      "target": "Easy credit and risky endorsements enable ruin"
+    },
+    {
+      "source": "Commerce",
+      "target": "Economy is not about frugal behavior"
+    },
+    {
+      "source": "Commerce",
+      "target": "Endorsements without security enable ruin"
+    },
+    {
+      "source": "Commerce",
+      "target": "Excellence in one's field cannot fail to succeed"
+    },
+    {
+      "source": "Commerce",
+      "target": "Excessive system defeats itself"
+    },
+    {
+      "source": "Commerce",
+      "target": "Financial discipline and capital integrity are the arithmetic foundation of wealth"
+    },
+    {
+      "source": "Commerce",
+      "target": "Firsthand knowledge and personal oversight protect against business failure"
+    },
+    {
+      "source": "Commerce",
+      "target": "Focused effort beats scattered powers"
+    },
+    {
+      "source": "Commerce",
+      "target": "Fraudulent goods lose customers permanently"
+    },
+    {
+      "source": "Commerce",
+      "target": "Good health is foundational to success"
+    },
+    {
+      "source": "Commerce",
+      "target": "Honest dealing, genuine advertising, and charitable reputation compound into lasting commercial trust"
+    },
+    {
+      "source": "Commerce",
+      "target": "Honesty enables community credit access"
+    },
+    {
+      "source": "Commerce",
+      "target": "Income must exceed expenditure"
+    },
+    {
+      "source": "Commerce",
+      "target": "Integrity is more valuable than wealth"
+    },
+    {
+      "source": "Commerce",
+      "target": "Integrity is the foundation of all success"
+    },
+    {
+      "source": "Commerce",
+      "target": "Integrity is the indispensable foundation of lasting prosperity"
+    },
+    {
+      "source": "Commerce",
+      "target": "Interest compounds for lenders only"
+    },
+    {
+      "source": "Commerce",
+      "target": "Intoxication prevents sound judgment"
+    },
+    {
+      "source": "Commerce",
+      "target": "Location determines business success"
+    },
+    {
+      "source": "Commerce",
+      "target": "Luck does not exist"
+    },
+    {
+      "source": "Commerce",
+      "target": "Mistakes and close observation enable learning"
+    },
+    {
+      "source": "Commerce",
+      "target": "Mistakes are teaching opportunities"
+    },
+    {
+      "source": "Commerce",
+      "target": "One purchase triggers cascading expenses"
+    },
+    {
+      "source": "Commerce",
+      "target": "Perseverance determines success"
+    },
+    {
+      "source": "Commerce",
+      "target": "Personal capacity, vocational fit, and relentless effort are the engine of wealth creation"
+    },
+    {
+      "source": "Commerce",
+      "target": "Personal oversight exceeds delegation"
+    },
+    {
+      "source": "Commerce",
+      "target": "Physical health and sobriety are prerequisites for wealth creation"
+    },
+    {
+      "source": "Commerce",
+      "target": "Politeness and kindness retain customers"
+    },
+    {
+      "source": "Commerce",
+      "target": "Politeness retains customer relationships"
+    },
+    {
+      "source": "Commerce",
+      "target": "Poor boys rise more reliably than rich boys"
+    },
+    {
+      "source": "Commerce",
+      "target": "Practical skill prevents destitution"
+    },
+    {
+      "source": "Commerce",
+      "target": "Prosperity requires self-regulation"
+    },
+    {
+      "source": "Commerce",
+      "target": "Quality products and advertising create awareness"
+    },
+    {
+      "source": "Commerce",
+      "target": "Quality products can succeed with advertising"
+    },
+    {
+      "source": "Commerce",
+      "target": "Repetition creates purchasing intention"
+    },
+    {
+      "source": "Commerce",
+      "target": "Reputation loss precedes financial loss"
+    },
+    {
+      "source": "Commerce",
+      "target": "Reputation precedes financial condition"
+    },
+    {
+      "source": "Commerce",
+      "target": "Retain and develop talented employees"
+    },
+    {
+      "source": "Commerce",
+      "target": "Retain talented employees over time"
+    },
+    {
+      "source": "Commerce",
+      "target": "Secrecy maintains business advantage"
+    },
+    {
+      "source": "Commerce",
+      "target": "Self-earned capital teaches discipline and value"
+    },
+    {
+      "source": "Commerce",
+      "target": "Skilled employees and systematic operation multiply business capacity"
+    },
+    {
+      "source": "Commerce",
+      "target": "Social comparison drives wasteful spending"
+    },
+    {
+      "source": "Commerce",
+      "target": "Sound business operations require knowledge, capable people, and strategic discretion"
+    },
+    {
+      "source": "Commerce",
+      "target": "Speculation outside expertise destroys wealth"
+    },
+    {
+      "source": "Commerce",
+      "target": "Starting with borrowed capital prevents real wealth building"
+    },
+    {
+      "source": "Commerce",
+      "target": "Stay informed about business developments"
+    },
+    {
+      "source": "Commerce",
+      "target": "Sustained focused effort and perseverance produce wealth, not luck"
+    },
+    {
+      "source": "Commerce",
+      "target": "System doubles productivity"
+    },
+    {
+      "source": "Commerce",
+      "target": "Targeted charity achieves more good"
+    },
+    {
+      "source": "Commerce",
+      "target": "Tobacco undermines health and finances"
+    },
+    {
+      "source": "Commerce",
+      "target": "Tracking expenditure reveals hidden luxuries"
+    },
+    {
+      "source": "Commerce",
+      "target": "True economy is disciplined spending that maintains income over expenditure"
+    },
+    {
+      "source": "Commerce",
+      "target": "Vocational alignment and practical skill determine business viability"
+    },
+    {
+      "source": "Commerce",
+      "target": "Wealth is built by disciplined character operating through sound business practices, not by luck or shortcuts"
+    },
+    {
+      "source": "Commerce",
+      "target": "Wealth pursuit requires accepting responsibility"
+    },
+    {
+      "source": "Commerce",
+      "target": "Wealth without earned understanding corrupts character"
+    },
+    {
+      "source": "Commerce",
+      "target": "Wholesale effort and thoroughness trump half measures"
+    },
+    {
+      "source": "Commerce",
+      "target": "Wholesale effort trumps half measures"
+    },
+    {
+      "source": "Commerce",
+      "target": "_index"
+    },
+    {
+      "source": "Commerce",
+      "target": "_index"
+    },
+    {
+      "source": "Capital",
+      "target": "Economy"
+    },
+    {
+      "source": "Capital",
+      "target": "Perseverance"
+    },
+    {
+      "source": "Capital",
+      "target": "Business discretion preserves competitive advantage and creditworthiness"
+    },
+    {
+      "source": "Capital",
+      "target": "Customer relationships and charitable reputation drive sustained revenue"
+    },
+    {
+      "source": "Capital",
+      "target": "Earned capital builds lasting wealth while unearned capital destroys it"
+    },
+    {
+      "source": "Capital",
+      "target": "Easy access to credit encourages dangerous speculation"
+    },
+    {
+      "source": "Capital",
+      "target": "Easy credit and risky endorsements enable ruin"
+    },
+    {
+      "source": "Capital",
+      "target": "Financial discipline and capital integrity are the arithmetic foundation of wealth"
+    },
+    {
+      "source": "Capital",
+      "target": "Personal capacity, vocational fit, and relentless effort are the engine of wealth creation"
+    },
+    {
+      "source": "Capital",
+      "target": "Politeness and kindness retain customers"
+    },
+    {
+      "source": "Capital",
+      "target": "Politeness retains customer relationships"
+    },
+    {
+      "source": "Capital",
+      "target": "Self-earned capital teaches discipline and value"
+    },
+    {
+      "source": "Capital",
+      "target": "Sound business operations require knowledge, capable people, and strategic discretion"
+    },
+    {
+      "source": "Capital",
+      "target": "Starting with borrowed capital prevents real wealth building"
+    },
+    {
+      "source": "Capital",
+      "target": "Wealth is built by disciplined character operating through sound business practices, not by luck or shortcuts"
+    },
+    {
+      "source": "Capital",
+      "target": "_index"
+    },
+    {
+      "source": "Health",
+      "target": "Wealth"
+    },
+    {
+      "source": "Health",
+      "target": "Good health is foundational to success"
+    },
+    {
+      "source": "Health",
+      "target": "Intoxication prevents sound judgment"
+    },
+    {
+      "source": "Health",
+      "target": "Personal capacity, vocational fit, and relentless effort are the engine of wealth creation"
+    },
+    {
+      "source": "Health",
+      "target": "Physical health and sobriety are prerequisites for wealth creation"
+    },
+    {
+      "source": "Health",
+      "target": "Tobacco undermines health and finances"
+    },
+    {
+      "source": "Health",
+      "target": "Wealth is built by disciplined character operating through sound business practices, not by luck or shortcuts"
+    },
+    {
+      "source": "Luck",
+      "target": "Luck does not exist"
+    },
+    {
+      "source": "Luck",
+      "target": "Caution and boldness both necessary"
+    },
+    {
+      "source": "Luck",
+      "target": "Focused effort beats scattered powers"
+    },
+    {
+      "source": "Luck",
+      "target": "Luck does not exist"
+    },
+    {
+      "source": "Luck",
+      "target": "Personal capacity, vocational fit, and relentless effort are the engine of wealth creation"
+    },
+    {
+      "source": "Luck",
+      "target": "Poor boys rise more reliably than rich boys"
+    },
+    {
+      "source": "Luck",
+      "target": "Practical skill prevents destitution"
+    },
+    {
+      "source": "Luck",
+      "target": "Speculation outside expertise destroys wealth"
+    },
+    {
+      "source": "Luck",
+      "target": "Sustained focused effort and perseverance produce wealth, not luck"
+    },
+    {
+      "source": "Luck",
+      "target": "Wealth without earned understanding corrupts character"
+    },
+    {
+      "source": "Luck",
+      "target": "Wholesale effort and thoroughness trump half measures"
+    },
+    {
+      "source": "Luck",
+      "target": "Wholesale effort trumps half measures"
+    },
+    {
+      "source": "Luck",
+      "target": "_index"
+    },
+    {
+      "source": "Luck",
+      "target": "_index"
+    },
+    {
+      "source": "Mistakes and close observation enable learning",
+      "target": "Cuvier"
+    },
+    {
+      "source": "Wholesale effort and thoroughness trump half measures",
+      "target": "Perseverance"
+    },
+    {
+      "source": "Practical skill prevents destitution",
+      "target": "Commerce"
+    },
+    {
+      "source": "Practical skill prevents destitution",
+      "target": "Vocation"
+    },
+    {
+      "source": "Politeness and kindness retain customers",
+      "target": "Capital"
+    },
+    {
+      "source": "Easy access to credit encourages dangerous speculation",
+      "target": "Capital"
+    },
+    {
+      "source": "Commerce is civilization's foundation",
+      "target": "Commerce"
+    },
+    {
+      "source": "Debt compounds against the debtor",
+      "target": "Debt"
+    },
+    {
+      "source": "Intoxication prevents sound judgment",
+      "target": "Intoxication"
+    },
+    {
+      "source": "Politeness retains customer relationships",
+      "target": "Capital"
+    },
+    {
+      "source": "Excellence in one's field cannot fail to succeed",
+      "target": "Vocation"
+    },
+    {
+      "source": "Excellence in one's field cannot fail to succeed",
+      "target": "Integrity"
+    },
+    {
+      "source": "Excellence in one's field cannot fail to succeed",
+      "target": "Wealth"
+    },
+    {
+      "source": "Income must exceed expenditure",
+      "target": "Economy"
+    },
+    {
+      "source": "Easy credit and risky endorsements enable ruin",
+      "target": "Capital"
+    },
+    {
+      "source": "Easy credit and risky endorsements enable ruin",
+      "target": "Speculation"
+    },
+    {
+      "source": "Cascading purchases expand lifestyle permanently",
+      "target": "Wealth"
+    },
+    {
+      "source": "Integrity is more valuable than wealth",
+      "target": "Integrity"
+    },
+    {
+      "source": "System doubles productivity",
+      "target": "System"
+    },
+    {
+      "source": "Choose a vocation suited to aptitude and excel",
+      "target": "Vocation"
+    },
+    {
+      "source": "Choose a vocation suited to aptitude and excel",
+      "target": "Integrity"
+    },
+    {
+      "source": "Choose a vocation suited to aptitude and excel",
+      "target": "Wealth"
+    },
+    {
+      "source": "Social comparison drives wasteful spending",
+      "target": "Mrs. Grundy"
+    },
+    {
+      "source": "Speculation outside expertise destroys wealth",
+      "target": "Speculation"
+    },
+    {
+      "source": "Speculation outside expertise destroys wealth",
+      "target": "Luck"
+    },
+    {
+      "source": "Prosperity requires self-regulation",
+      "target": "Wealth"
+    },
+    {
+      "source": "Integrity is the foundation of all success",
+      "target": "Integrity"
+    },
+    {
+      "source": "Integrity is the foundation of all success",
+      "target": "Wealth"
+    },
+    {
+      "source": "Endorsements without security enable ruin",
+      "target": "Speculation"
+    },
+    {
+      "source": "Wealth pursuit requires accepting responsibility",
+      "target": "Wealth"
+    },
+    {
+      "source": "Starting with borrowed capital prevents real wealth building",
+      "target": "Capital"
+    },
+    {
+      "source": "Caution and boldness both necessary",
+      "target": "Rothschild"
+    },
+    {
+      "source": "Caution and boldness both necessary",
+      "target": "Luck"
+    },
+    {
+      "source": "Quality products can succeed with advertising",
+      "target": "Advertising"
+    },
+    {
+      "source": "Debt is enslavement",
+      "target": "Debt"
+    },
+    {
+      "source": "Fraudulent goods lose customers permanently",
+      "target": "Advertising"
+    },
+    {
+      "source": "Charity produces business benefits",
+      "target": "Charity"
+    },
+    {
+      "source": "Stay informed about business developments",
+      "target": "Commerce"
+    },
+    {
+      "source": "Repetition creates purchasing intention",
+      "target": "Advertising"
+    },
+    {
+      "source": "Interest compounds for lenders only",
+      "target": "Debt"
+    },
+    {
+      "source": "Economy is not about frugal behavior",
+      "target": "Economy"
+    },
+    {
+      "source": "Good health is foundational to success",
+      "target": "Health"
+    },
+    {
+      "source": "Good health is foundational to success",
+      "target": "Wealth"
+    },
+    {
+      "source": "Deep knowledge prevents deception",
+      "target": "Cuvier"
+    },
+    {
+      "source": "Quality products and advertising create awareness",
+      "target": "Advertising"
+    },
+    {
+      "source": "Choose a vocation suited to aptitude",
+      "target": "Vocation"
+    },
+    {
+      "source": "Luck does not exist",
+      "target": "Luck"
+    },
+    {
+      "source": "Honesty enables community credit access",
+      "target": "Integrity"
+    },
+    {
+      "source": "Honesty enables community credit access",
+      "target": "Wealth"
+    },
+    {
+      "source": "Targeted charity achieves more good",
+      "target": "Charity"
+    },
+    {
+      "source": "Tracking expenditure reveals hidden luxuries",
+      "target": "Ledger"
+    },
+    {
+      "source": "Perseverance determines success",
+      "target": "Perseverance"
+    },
+    {
+      "source": "Location determines business success",
+      "target": "Location"
+    },
+    {
+      "source": "Wholesale effort trumps half measures",
+      "target": "Perseverance"
+    },
+    {
+      "source": "Self-earned capital teaches discipline and value",
+      "target": "Wealth"
+    },
+    {
+      "source": "Self-earned capital teaches discipline and value",
+      "target": "Capital"
+    },
+    {
+      "source": "Self-earned capital teaches discipline and value",
+      "target": "Economy"
+    },
+    {
+      "source": "Self-earned capital teaches discipline and value",
+      "target": "Perseverance"
+    },
+    {
+      "source": "Excessive system defeats itself",
+      "target": "System"
+    },
+    {
+      "source": "Tobacco undermines health and finances",
+      "target": "Tobacco"
+    },
+    {
+      "source": "Sound business operations require knowledge, capable people, and strategic discretion",
+      "target": "Capital"
+    },
+    {
+      "source": "Sound business operations require knowledge, capable people, and strategic discretion",
+      "target": "Firsthand knowledge and personal oversight protect against business failure|direct knowledge and oversight"
+    },
+    {
+      "source": "Sound business operations require knowledge, capable people, and strategic discretion",
+      "target": "Speculation"
+    },
+    {
+      "source": "Sound business operations require knowledge, capable people, and strategic discretion",
+      "target": "Skilled employees and systematic operation multiply business capacity|talented employees and systematic procedure"
+    },
+    {
+      "source": "Sound business operations require knowledge, capable people, and strategic discretion",
+      "target": "Business discretion preserves competitive advantage and creditworthiness|disciplined discretion"
+    },
+    {
+      "source": "Financial discipline and capital integrity are the arithmetic foundation of wealth",
+      "target": "True economy is disciplined spending that maintains income over expenditure|income must exceed expenditure"
+    },
+    {
+      "source": "Financial discipline and capital integrity are the arithmetic foundation of wealth",
+      "target": "Debt enslaves the borrower while enriching the creditor|debt"
+    },
+    {
+      "source": "Financial discipline and capital integrity are the arithmetic foundation of wealth",
+      "target": "Earned capital builds lasting wealth while unearned capital destroys it|capital must be self-earned"
+    },
+    {
+      "source": "Honest dealing, genuine advertising, and charitable reputation compound into lasting commercial trust",
+      "target": "Advertising genuine goods creates compounding customer awareness|Persistent advertising of genuine goods"
+    },
+    {
+      "source": "Honest dealing, genuine advertising, and charitable reputation compound into lasting commercial trust",
+      "target": "Integrity"
+    },
+    {
+      "source": "Honest dealing, genuine advertising, and charitable reputation compound into lasting commercial trust",
+      "target": "Customer relationships and charitable reputation drive sustained revenue|politeness, kindness, and charitable giving"
+    },
+    {
+      "source": "Honest dealing, genuine advertising, and charitable reputation compound into lasting commercial trust",
+      "target": "Integrity is the indispensable foundation of lasting prosperity|integrity itself"
+    },
+    {
+      "source": "Personal capacity, vocational fit, and relentless effort are the engine of wealth creation",
+      "target": "Capital"
+    },
+    {
+      "source": "Personal capacity, vocational fit, and relentless effort are the engine of wealth creation",
+      "target": "Physical health and sobriety are prerequisites for wealth creation|Health and sobriety"
+    },
+    {
+      "source": "Personal capacity, vocational fit, and relentless effort are the engine of wealth creation",
+      "target": "Vocational alignment and practical skill determine business viability|choosing a vocation that fits one's aptitude"
+    },
+    {
+      "source": "Personal capacity, vocational fit, and relentless effort are the engine of wealth creation",
+      "target": "Sustained focused effort and perseverance produce wealth, not luck|concentrated perseverance"
+    },
+    {
+      "source": "Personal capacity, vocational fit, and relentless effort are the engine of wealth creation",
+      "target": "Luck"
+    },
+    {
+      "source": "Integrity is the indispensable foundation of lasting prosperity",
+      "target": "Integrity is more valuable than wealth|integrity surpasses diamonds and rubies"
+    },
+    {
+      "source": "Integrity is the indispensable foundation of lasting prosperity",
+      "target": "Dishonesty inevitably discovered destroys opportunity|dishonesty is always eventually discovered"
+    },
+    {
+      "source": "Integrity is the indispensable foundation of lasting prosperity",
+      "target": "Honesty enables community credit access|known honesty"
+    },
+    {
+      "source": "Integrity is the indispensable foundation of lasting prosperity",
+      "target": "Wealth"
+    },
+    {
+      "source": "Integrity is the indispensable foundation of lasting prosperity",
+      "target": "Wealth pursuit requires accepting responsibility|the desire for wealth is laudable"
+    },
+    {
+      "source": "Integrity is the indispensable foundation of lasting prosperity",
+      "target": "Commerce is civilization's foundation|commerce parallels civilization itself"
+    },
+    {
+      "source": "Integrity is the indispensable foundation of lasting prosperity",
+      "target": "Commerce"
+    },
+    {
+      "source": "Earned capital builds lasting wealth while unearned capital destroys it",
+      "target": "Starting with borrowed capital prevents real wealth building|Borrowed capital"
+    },
+    {
+      "source": "Earned capital builds lasting wealth while unearned capital destroys it",
+      "target": "Self-earned capital teaches discipline and value|self-earned capital"
+    },
+    {
+      "source": "Earned capital builds lasting wealth while unearned capital destroys it",
+      "target": "Poor boys rise more reliably than rich boys|poor boys outperform rich boys"
+    },
+    {
+      "source": "Earned capital builds lasting wealth while unearned capital destroys it",
+      "target": "Wealth without earned understanding corrupts character|unearned wealth corrupts character"
+    },
+    {
+      "source": "Earned capital builds lasting wealth while unearned capital destroys it",
+      "target": "Easy access to credit encourages dangerous speculation|Easy credit"
+    },
+    {
+      "source": "Vocational alignment and practical skill determine business viability",
+      "target": "Choose a vocation suited to aptitude|Natural aptitude"
+    },
+    {
+      "source": "Vocational alignment and practical skill determine business viability",
+      "target": "Vocation"
+    },
+    {
+      "source": "Vocational alignment and practical skill determine business viability",
+      "target": "Location determines business success|location determines demand"
+    },
+    {
+      "source": "Vocational alignment and practical skill determine business viability",
+      "target": "Practical skill prevents destitution|practical skill"
+    },
+    {
+      "source": "Vocational alignment and practical skill determine business viability",
+      "target": "Wealth"
+    },
+    {
+      "source": "Vocational alignment and practical skill determine business viability",
+      "target": "Location"
+    },
+    {
+      "source": "Vocational alignment and practical skill determine business viability",
+      "target": "Excellence in one's field cannot fail to succeed|excellence becomes self-rewarding"
+    },
+    {
+      "source": "Physical health and sobriety are prerequisites for wealth creation",
+      "target": "Good health is foundational to success|Good health"
+    },
+    {
+      "source": "Physical health and sobriety are prerequisites for wealth creation",
+      "target": "Wealth"
+    },
+    {
+      "source": "Physical health and sobriety are prerequisites for wealth creation",
+      "target": "Tobacco undermines health and finances|Tobacco"
+    },
+    {
+      "source": "Physical health and sobriety are prerequisites for wealth creation",
+      "target": "Tobacco"
+    },
+    {
+      "source": "Physical health and sobriety are prerequisites for wealth creation",
+      "target": "Intoxication prevents sound judgment|intoxication"
+    },
+    {
+      "source": "Physical health and sobriety are prerequisites for wealth creation",
+      "target": "Health"
+    },
+    {
+      "source": "Business discretion preserves competitive advantage and creditworthiness",
+      "target": "Secrecy maintains business advantage|Revealing business secrets"
+    },
+    {
+      "source": "Business discretion preserves competitive advantage and creditworthiness",
+      "target": "Reputation loss precedes financial loss|publicly announcing losses"
+    },
+    {
+      "source": "Business discretion preserves competitive advantage and creditworthiness",
+      "target": "Capital"
+    },
+    {
+      "source": "Business discretion preserves competitive advantage and creditworthiness",
+      "target": "Endorsements without security enable ruin|endorsing notes without security"
+    },
+    {
+      "source": "Business discretion preserves competitive advantage and creditworthiness",
+      "target": "Speculation"
+    },
+    {
+      "source": "Sustained focused effort and perseverance produce wealth, not luck",
+      "target": "Perseverance determines success|Perseverance"
+    },
+    {
+      "source": "Sustained focused effort and perseverance produce wealth, not luck",
+      "target": "Wholesale effort trumps half measures|Doing business with full might"
+    },
+    {
+      "source": "Sustained focused effort and perseverance produce wealth, not luck",
+      "target": "Constant business changing keeps one poor|jumping between ventures"
+    },
+    {
+      "source": "Sustained focused effort and perseverance produce wealth, not luck",
+      "target": "Focused effort beats scattered powers|undivided attention"
+    },
+    {
+      "source": "Sustained focused effort and perseverance produce wealth, not luck",
+      "target": "Wealth"
+    },
+    {
+      "source": "Sustained focused effort and perseverance produce wealth, not luck",
+      "target": "Luck does not exist|luck"
+    },
+    {
+      "source": "Sustained focused effort and perseverance produce wealth, not luck",
+      "target": "Luck"
+    },
+    {
+      "source": "True economy is disciplined spending that maintains income over expenditure",
+      "target": "Wealth"
+    },
+    {
+      "source": "True economy is disciplined spending that maintains income over expenditure",
+      "target": "Social comparison drives wasteful spending|social comparison"
+    },
+    {
+      "source": "True economy is disciplined spending that maintains income over expenditure",
+      "target": "Prosperity requires self-regulation|unregulated prosperity"
+    },
+    {
+      "source": "True economy is disciplined spending that maintains income over expenditure",
+      "target": "One purchase triggers cascading expenses|cascading purchases"
+    },
+    {
+      "source": "True economy is disciplined spending that maintains income over expenditure",
+      "target": "Economy is not about frugal behavior|True economy"
+    },
+    {
+      "source": "True economy is disciplined spending that maintains income over expenditure",
+      "target": "Tracking expenditure reveals hidden luxuries|tracking expenditure"
+    },
+    {
+      "source": "True economy is disciplined spending that maintains income over expenditure",
+      "target": "Income must exceed expenditure|income"
+    },
+    {
+      "source": "Advertising genuine goods creates compounding customer awareness",
+      "target": "Quality products can succeed with advertising|A genuine article"
+    },
+    {
+      "source": "Advertising genuine goods creates compounding customer awareness",
+      "target": "Advertising"
+    },
+    {
+      "source": "Advertising genuine goods creates compounding customer awareness",
+      "target": "Repetition creates purchasing intention|seven exposures"
+    },
+    {
+      "source": "Advertising genuine goods creates compounding customer awareness",
+      "target": "Fraudulent goods lose customers permanently|advertising spurious articles"
+    },
+    {
+      "source": "Firsthand knowledge and personal oversight protect against business failure",
+      "target": "Personal oversight exceeds delegation|the employer's eye outweighs a dozen employees' hands"
+    },
+    {
+      "source": "Firsthand knowledge and personal oversight protect against business failure",
+      "target": "Mistakes are teaching opportunities|mistakes become experience"
+    },
+    {
+      "source": "Firsthand knowledge and personal oversight protect against business failure",
+      "target": "Deep knowledge prevents deception|thorough knowledge"
+    },
+    {
+      "source": "Firsthand knowledge and personal oversight protect against business failure",
+      "target": "Speculation outside expertise destroys wealth|venturing outside one's expertise"
+    },
+    {
+      "source": "Firsthand knowledge and personal oversight protect against business failure",
+      "target": "Rothschild"
+    },
+    {
+      "source": "Firsthand knowledge and personal oversight protect against business failure",
+      "target": "Caution and boldness both necessary|be cautious in planning and bold in execution"
+    },
+    {
+      "source": "Skilled employees and systematic operation multiply business capacity",
+      "target": "Retain talented employees over time|Experienced employees increase in value daily"
+    },
+    {
+      "source": "Skilled employees and systematic operation multiply business capacity",
+      "target": "Brain and judgment matter more than mere labor|intellectual capacity alongside labor"
+    },
+    {
+      "source": "Skilled employees and systematic operation multiply business capacity",
+      "target": "System doubles productivity|systematic procedure"
+    },
+    {
+      "source": "Skilled employees and systematic operation multiply business capacity",
+      "target": "Excessive system defeats itself|over-systematization"
+    },
+    {
+      "source": "Skilled employees and systematic operation multiply business capacity",
+      "target": "Stay informed about business developments|reading trustworthy newspapers"
+    },
+    {
+      "source": "Debt enslaves the borrower while enriching the creditor",
+      "target": "Debt"
+    },
+    {
+      "source": "Debt enslaves the borrower while enriching the creditor",
+      "target": "Debt is enslavement|Running into debt"
+    },
+    {
+      "source": "Debt enslaves the borrower while enriching the creditor",
+      "target": "Creditors have perfect memories|creditors possess the best memories"
+    },
+    {
+      "source": "Debt enslaves the borrower while enriching the creditor",
+      "target": "Interest compounds for lenders only|money in debt works against the debtor"
+    },
+    {
+      "source": "Debt enslaves the borrower while enriching the creditor",
+      "target": "Wealth"
+    },
+    {
+      "source": "Customer relationships and charitable reputation drive sustained revenue",
+      "target": "Politeness retains customer relationships|Politeness and civility"
+    },
+    {
+      "source": "Customer relationships and charitable reputation drive sustained revenue",
+      "target": "Capital"
+    },
+    {
+      "source": "Customer relationships and charitable reputation drive sustained revenue",
+      "target": "Customer insult loses future revenue|insulting a paying customer"
+    },
+    {
+      "source": "Customer relationships and charitable reputation drive sustained revenue",
+      "target": "Charity produces business benefits|charitable giving"
+    },
+    {
+      "source": "Customer relationships and charitable reputation drive sustained revenue",
+      "target": "Targeted charity achieves more good|selective assistance to self-helpers"
+    },
+    {
+      "source": "Customer relationships and charitable reputation drive sustained revenue",
+      "target": "Charity"
+    }
+  ]
+}

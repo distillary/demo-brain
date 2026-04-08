@@ -1,0 +1,45 @@
+{
+  "brain": {
+    "description": "A Distillary knowledge brain. Navigate it like a website: start at the index, follow links by relevance to your goal. Each page has content + links to go deeper. 2-4 page fetches answers most questions.",
+    "skill": "/static/skill.txt"
+  },
+  "how_to_navigate": {
+    "start": "/",
+    "fastest": "Start with bridge concepts below — each one is a cross-source hub with both perspectives + all related claims in one page. Follow backlinks from there to drill into specifics.",
+    "by_source": [
+      "The thesis is already in this manifest (see sources[].thesis)",
+      "For main ideas: fetch sources[].main_ideas — lists all chapter-level clusters",
+      "Each cluster links to ~5 structure notes — follow the one matching your topic",
+      "Structure notes link to ~5 atomic claims with source references"
+    ],
+    "by_concept": [
+      "Pick a bridge concept from the list below",
+      "Fetch its page — see both sources' perspectives + all backlinks",
+      "Follow backlinks to specific claims in either source"
+    ],
+    "comparison": "Fetch /shared/analytics/comparison for the full cross-source synthesis"
+  },
+  "sources": [
+    {
+      "slug": "barnum-art-of-money-getting",
+      "title": "The Art of Money Getting",
+      "author": "P.T. Barnum",
+      "type": "book",
+      "published": 1880,
+      "claims": 79,
+      "entities": 23,
+      "thesis": "Barnum's central thesis is that lasting wealth emerges from the convergence of personal financial discipline, individual capacity and effort, competent business operations, and honest reputation, and ",
+      "main_ideas": "/sources/barnum-art-of-money-getting/claims/clusters/",
+      "root_note": "/sources/barnum-art-of-money-getting/claims/Wealth-is-built-by-disciplined-character-operating-through-sound-business-practices,-not-by-luck-or-shortcuts"
+    }
+  ],
+  "bridges": [],
+  "bulk_api": {
+    "note": "Only use these if you need to filter/search programmatically. For most questions, walking pages is faster and uses less context.",
+    "endpoints": [
+      "/api/sources/barnum-art-of-money-getting/claims.json",
+      "/api/shared/bridge-concepts.json",
+      "/api/graph.json"
+    ]
+  }
+}
