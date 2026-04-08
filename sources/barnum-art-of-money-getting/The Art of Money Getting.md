@@ -26,7 +26,7 @@ What makes this compelling today is how relentlessly Barnum connects the dots be
 
 **Sound Operations**
 
-[[Sound business operations require knowledge, capable people, and strategic discretion|Operational excellence]] multiplies what effort creates. The owner must maintain [[Firsthand knowledge and personal oversight]] of critical functions—delegation without understanding invites disaster. Surround yourself with [[Skilled employees]] and systematic processes. But protect what you build: keep sensitive information controlled, because loose talk and exposed vulnerabilities are invitations to competitors and creditors alike.
+[[Sound business operations require knowledge, capable people, and strategic discretion|Operational excellence]] multiplies what effort creates. The owner must maintain [[Firsthand knowledge and personal oversight protect against business failure|firsthand knowledge and personal oversight]] of critical functions—delegation without understanding invites disaster. Surround yourself with [[Skilled employees and systematic operation multiply business capacity|skilled employees]] and systematic processes. But protect what you build: keep sensitive information controlled, because loose talk and exposed vulnerabilities are invitations to competitors and creditors alike.
 
 **Honest Reputation**
 
