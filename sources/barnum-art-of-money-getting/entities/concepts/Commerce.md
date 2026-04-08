@@ -1,0 +1,101 @@
+---
+tags:
+- type/entity/concept
+- priority/support
+- certainty/established
+- domain/history
+- source/barnum-art-of-money-getting
+kind: entity
+entity_type: concept
+aliases:
+- Trade
+- Money-getting
+- Business practice
+- Mercantile activity
+---
+
+Barnum asserts that the history of money-getting through commerce is inseparable from the history of civilization itself. Wherever trade has flourished most, art and science have also produced their noblest fruits, indicating a deep connection between commerce and cultural advancement. Commerce provides both economic benefit and civilizing influence on society, justifying the pursuit of business success as contributing to broader human progress.
+
+## Referenced by
+
+- [[Advertising genuine goods creates compounding customer awareness]]
+- [[Brain and judgment matter more than mere labor]]
+- [[Business discretion preserves competitive advantage and creditworthiness]]
+- [[Cascading purchases expand lifestyle permanently]]
+- [[Caution and boldness both necessary]]
+- [[Charity produces business benefits]]
+- [[Choose a vocation suited to aptitude]]
+- [[Choose a vocation suited to aptitude and excel]]
+- [[Commerce is civilization's foundation]]
+- [[Constant business changing keeps one poor]]
+- [[Creditors have perfect memories]]
+- [[Customer insult loses future revenue]]
+- [[Customer relationships and charitable reputation drive sustained revenue]]
+- [[Debt compounds against the debtor]]
+- [[Debt enslaves the borrower while enriching the creditor]]
+- [[Debt is enslavement]]
+- [[Deep knowledge prevents deception]]
+- [[Dishonesty inevitably discovered destroys opportunity]]
+- [[Earned capital builds lasting wealth while unearned capital destroys it]]
+- [[Easy access to credit encourages dangerous speculation]]
+- [[Easy credit and risky endorsements enable ruin]]
+- [[Economy is not about frugal behavior]]
+- [[Endorsements without security enable ruin]]
+- [[Excellence in one's field cannot fail to succeed]]
+- [[Excessive system defeats itself]]
+- [[Financial discipline and capital integrity are the arithmetic foundation of wealth]]
+- [[Firsthand knowledge and personal oversight protect against business failure]]
+- [[Focused effort beats scattered powers]]
+- [[Fraudulent goods lose customers permanently]]
+- [[Good health is foundational to success]]
+- [[Honest dealing, genuine advertising, and charitable reputation compound into lasting commercial trust]]
+- [[Honesty enables community credit access]]
+- [[Income must exceed expenditure]]
+- [[Integrity is more valuable than wealth]]
+- [[Integrity is the foundation of all success]]
+- [[Integrity is the indispensable foundation of lasting prosperity]]
+- [[Interest compounds for lenders only]]
+- [[Intoxication prevents sound judgment]]
+- [[Location determines business success]]
+- [[Luck does not exist]]
+- [[Mistakes and close observation enable learning]]
+- [[Mistakes are teaching opportunities]]
+- [[One purchase triggers cascading expenses]]
+- [[Perseverance determines success]]
+- [[Personal capacity, vocational fit, and relentless effort are the engine of wealth creation]]
+- [[Personal oversight exceeds delegation]]
+- [[Physical health and sobriety are prerequisites for wealth creation]]
+- [[Politeness and kindness retain customers]]
+- [[Politeness retains customer relationships]]
+- [[Poor boys rise more reliably than rich boys]]
+- [[Practical skill prevents destitution]]
+- [[Prosperity requires self-regulation]]
+- [[Quality products and advertising create awareness]]
+- [[Quality products can succeed with advertising]]
+- [[Repetition creates purchasing intention]]
+- [[Reputation loss precedes financial loss]]
+- [[Reputation precedes financial condition]]
+- [[Retain and develop talented employees]]
+- [[Retain talented employees over time]]
+- [[Secrecy maintains business advantage]]
+- [[Self-earned capital teaches discipline and value]]
+- [[Skilled employees and systematic operation multiply business capacity]]
+- [[Social comparison drives wasteful spending]]
+- [[Sound business operations require knowledge, capable people, and strategic discretion]]
+- [[Speculation outside expertise destroys wealth]]
+- [[Starting with borrowed capital prevents real wealth building]]
+- [[Stay informed about business developments]]
+- [[Sustained focused effort and perseverance produce wealth, not luck]]
+- [[System doubles productivity]]
+- [[Targeted charity achieves more good]]
+- [[Tobacco undermines health and finances]]
+- [[Tracking expenditure reveals hidden luxuries]]
+- [[True economy is disciplined spending that maintains income over expenditure]]
+- [[Vocational alignment and practical skill determine business viability]]
+- [[Wealth is built by disciplined character operating through sound business practices, not by luck or shortcuts]]
+- [[Wealth pursuit requires accepting responsibility]]
+- [[Wealth without earned understanding corrupts character]]
+- [[Wholesale effort and thoroughness trump half measures]]
+- [[Wholesale effort trumps half measures]]
+- [[_index]]
+- [[_index]]

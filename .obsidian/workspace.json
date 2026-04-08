@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "4396911b5d8ecdf4",
+    "type": "split",
+    "children": [
+      {
+        "id": "797b2c3f440d19e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d05bda43cdb6cb93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sources/barnum-art-of-money-getting/_source.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_source"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "283555c8ef5706d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "98a83eedf303770c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0882a154fea9d075",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0b1fa12cc052e74f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#certainty/established",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "76b11816c41a164a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "37a3984d87805375",
+    "type": "split",
+    "children": [
+      {
+        "id": "23e562181e935f61",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe45922c99208fce",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "sources/barnum-art-of-money-getting/_source.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for _source"
+            }
+          },
+          {
+            "id": "62c16463a4b3535a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "sources/barnum-art-of-money-getting/_source.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from _source"
+            }
+          },
+          {
+            "id": "e51d6149a5de1ebd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4063d2908521a7a6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "c9736abe7f9c6130",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "sources/barnum-art-of-money-getting/_source.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of _source"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "d05bda43cdb6cb93",
+  "lastOpenFiles": [
+    "sources/barnum-art-of-money-getting/The Art of Money Getting.md",
+    "sources/barnum-art-of-money-getting/_index.md",
+    "sources/barnum-art-of-money-getting/claims/Wealth is built by disciplined character operating through sound business practices, not by luck or shortcuts.md",
+    "sources/barnum-art-of-money-getting/_source.md",
+    "sources/barnum-art-of-money-getting/entities/works/The Art of Money Getting.md",
+    "sources/barnum-art-of-money-getting/entities/people/Rothschild.md",
+    "sources/barnum-art-of-money-getting/entities/people/P.T. Barnum.md",
+    "sources/barnum-art-of-money-getting/entities/people/Cuvier.md",
+    "sources/barnum-art-of-money-getting/entities/defined_terms/Ledger.md",
+    "sources/barnum-art-of-money-getting/entities/concepts/Wealth.md",
+    "sources/barnum-art-of-money-getting/entities/concepts/Vocation.md",
+    "sources/barnum-art-of-money-getting/entities/concepts/Tobacco.md",
+    "sources/barnum-art-of-money-getting/entities/concepts/System.md",
+    "sources/barnum-art-of-money-getting/entities/concepts/Speculation.md",
+    "sources/barnum-art-of-money-getting/entities/concepts/Perseverance.md",
+    "sources/barnum-art-of-money-getting/entities/concepts/Mrs. Grundy.md",
+    "sources/barnum-art-of-money-getting/entities/concepts/Luck.md",
+    "sources/barnum-art-of-money-getting/entities/concepts/Location.md",
+    "sources/barnum-art-of-money-getting/entities/concepts/Intoxication.md",
+    "sources/barnum-art-of-money-getting/entities/concepts/Integrity.md",
+    "sources/barnum-art-of-money-getting/entities/concepts/Health.md",
+    "sources/barnum-art-of-money-getting/entities/concepts/Excellence.md",
+    "sources/barnum-art-of-money-getting/entities/concepts/Economy.md",
+    "sources/barnum-art-of-money-getting/entities/concepts/Debt.md",
+    "sources/barnum-art-of-money-getting/entities/concepts/Commerce.md",
+    "sources/barnum-art-of-money-getting/entities/concepts/Charity.md",
+    "sources/barnum-art-of-money-getting/entities/works",
+    "sources/barnum-art-of-money-getting/entities/people",
+    "sources/barnum-art-of-money-getting/entities/defined_terms",
+    "sources/barnum-art-of-money-getting/entities/concepts",
+    "sources/barnum-art-of-money-getting/entities",
+    "sources/barnum-art-of-money-getting/claims/clusters",
+    "sources/barnum-art-of-money-getting/claims/structure",
+    "sources/barnum-art-of-money-getting/claims/atoms",
+    "sources/barnum-art-of-money-getting/claims",
+    "sources/barnum-art-of-money-getting"
+  ]
+}
